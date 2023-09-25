@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:8,Tele Antillas - Tele Antillas - RD
-http://138.59.177.34:8000/play/a01w/index.m3u8
 #EXTINF:29,Canal 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:8,TeleMicro - RD

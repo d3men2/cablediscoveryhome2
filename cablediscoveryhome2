@@ -1,22 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="",Tele Antillas - Tele Antillas - RD
-http://gustvplay.com:8080/JManuel1201/xf9vhA4dSeXc/244303
+https://f.gmsiptv.com/memfs/4fee3822-bd61-4c0c-b50c-e98117529fdc_output_0.m3u8?session=NP7bmdbHxnE9Ep2vvWAvNX
 #EXTINF:-1 tvg-logo=""group-title="",Canal 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",TeleMicro - RD
 http://51.81.93.239:8084/hls/tmicro.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",ANTENA 7
-http://gustvplay.com:8080/JManuel1201/xf9vhA4dSeXc/244205
 #EXTINF:-1 tvg-logo=""group-title="",Antena 7-RD
-http://138.59.177.34:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",RD| COLORVISION HD
-http://gustvplay.com:8080/JManuel1201/xf9vhA4dSeXc/244245
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",COLOR VISION
+https://f.gmsiptv.com/memfs/400c208a-389d-45f1-837e-fcb52dd477e2_output_0.m3u8?session=Vp6mN34sqofYx9aehbDgNN
 #EXTINF:-1 tvg-logo=""group-title="",Telesistema RD
-http://gustvplay.com:8080/JManuel1201/xf9vhA4dSeXc/244310
+https://f.gmsiptv.com/memfs/19b4d941-b056-48bb-85c1-97423f9f7da9_output_0.m3u8?session=EKyV7KzFVFdBiDc3ST9yQg
 #EXTINF:-1 tvg-logo=""group-title="",Telecentro - Telecentro - RD
-http://gustvplay.com:8080/JManuel1201/xf9vhA4dSeXc/244306
+https://f.gmsiptv.com/memfs/8048dafa-40eb-4068-b8cc-44278899677e_output_0.m3u8?session=JbtojKaF2ihjdRJiGYu2Rr
 #EXTINF:-1 tvg-logo=""group-title="",Digital 15 - RD
-http://gustvplay.com:8080/JManuel1201/xf9vhA4dSeXc/244248
+https://f.gmsiptv.com/memfs/343b0ce3-5d84-4b98-a197-ea3c4344e655_output_0.m3u8?session=EmRWa3cJYRER6UaiFHokLy
 #EXTINF:-1 tvg-logo=""group-title="",Teleuniverso - Teleuniverso - RD
 http://138.59.177.34:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",RNN | DO
@@ -89,8 +87,6 @@ http://160.20.165.245:8000/play/a01b/index.m3u8
 http://160.20.165.245:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",OROMAR TV A
 http://160.20.165.245:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",RT ESPAÑOL
-http://160.20.165.245:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",RTU
 http://160.20.165.245:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",SONY

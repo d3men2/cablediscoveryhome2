@@ -53,11 +53,53 @@ https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=""group-title="",Zol 106.5 FM | DO
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=""group-title="",12345 Pasajetv
+#EXTINF:-1 tvg-logo=""group-title="",ALTANTO TV
+https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",CINEVISION CANAL 19
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",ANTENA 21
+https://alba-do-antena7-c21.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",TELEFUTURO
+https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w1620258161.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",TELEUNIVERSO
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",TELEMEDIOS
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w2005174444.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",TELERADIO AMERICA
+https://deultimominuto01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",EL NUEVO DIARIO TV
+https://ssh101-fl.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",ALTANTO TV
+https://f.gmsiptv.com/memfs/0ab8998e-330a-435b-80eb-c50f204d1ceb_output_0.m3u8?session=6DAdPhbykQ4NJmJMGtvKfK
+#EXTINF:-1 tvg-logo=""group-title="",CINEVISION CANAL 19
+https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",ZTV
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",DELTA 103.9
+https://f.gmsiptv.com/memfs/fb032989-e23c-45fe-aa1f-feac83f27d26_output_0.m3u8?session=Das597A6AuuQgMJkzeVdvj
+#EXTINF:-1 tvg-logo=""group-title="",CONSTANZA TV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",14 TV
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",NOTICAS 16
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",AIONTELEVISION
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",REVISTA110
+https://ss5.domint.net:3174/car_str/carivision/chunklist_w1510385245.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",VOZZ
+https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w105080495.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",TELECANAL 28
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",ORIENTAL TV
+https://cdn.essastream.com:3375/live/orientaltvlive.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",PASAJE TV
 http://160.20.165.245:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",12346 Telemundo
+#EXTINF:-1 tvg-logo=""group-title="",TELEMUNDO
 http://160.20.165.245:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",12347 VITO TV
+#EXTINF:-1 tvg-logo=""group-title="",VITO TV
 http://160.20.165.245:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",A&E
 http://160.20.165.245:8000/play/a00k/index.m3u8

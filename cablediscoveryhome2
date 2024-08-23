@@ -1,1 +1,414 @@
-
+#EXTM3U
+#EXTINF:17,Tele Antillas - https://f.gmsiptv.com/4fee3822-bd61-4c0c-b50c-e98117529fdc/oembed.json
+https://f.gmsiptv.com/memfs/4fee3822-bd61-4c0c-b50c-e98117529fdc_output_0.m3u8?session=NP7bmdbHxnE9Ep2vvWAvNX
+#EXTINF:0,Canal 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:0,TeleMicro - RD
+http://51.81.93.239:8084/hls/tmicro.m3u8
+#EXTINF:0,Antena 7-RD
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
+#EXTINF:0,COLOR VISION
+https://f.gmsiptv.com/memfs/400c208a-389d-45f1-837e-fcb52dd477e2_output_0.m3u8?session=Vp6mN34sqofYx9aehbDgNN
+#EXTINF:0,Telesistema RD
+https://f.gmsiptv.com/memfs/19b4d941-b056-48bb-85c1-97423f9f7da9_output_0.m3u8?session=EKyV7KzFVFdBiDc3ST9yQg
+#EXTINF:0,Telecentro - Telecentro - RD
+https://f.gmsiptv.com/memfs/8048dafa-40eb-4068-b8cc-44278899677e_output_0.m3u8?session=JbtojKaF2ihjdRJiGYu2Rr
+#EXTINF:0,Digital 15 - RD
+https://f.gmsiptv.com/memfs/343b0ce3-5d84-4b98-a197-ea3c4344e655_output_0.m3u8?session=EmRWa3cJYRER6UaiFHokLy
+#EXTINF:0,Teleuniverso - Teleuniverso - RD
+http://138.59.177.34:8000/play/a03n/index.m3u8
+#EXTINF:0,RNN | DO
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CDN (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:0,AME 47 | DO
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Tu Musica HD | DO
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
+#EXTINF:0,Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,La Fe Mueve Montanas | DO
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Farovision | DO
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Fuego TV | DO
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,GH Television | DO
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
+#EXTINF:0,Guaymate TV | DO
+https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Microvision | DO
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Ready TV | DO
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+#EXTINF:0,RNN | DO
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Tele Oriental Digital | DO
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
+#EXTINF:0,TNI 51 | DO
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Yunavision | DO
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Zol 106.5 FM | DO
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,ALTANTO TV
+https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
+#EXTINF:0,CINEVISION CANAL 19
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:0,ANTENA 21
+https://alba-do-antena7-c21.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+#EXTINF:0,TELEFUTURO
+https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w1620258161.m3u8
+#EXTINF:0,TELEUNIVERSO
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:0,TELEMEDIOS
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w2005174444.m3u8
+#EXTINF:0,TELERADIO AMERICA
+https://deultimominuto01.streamprolive.com/hls/live.m3u8
+#EXTINF:0,EL NUEVO DIARIO TV
+https://ssh101-fl.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
+#EXTINF:0,ALTANTO TV
+https://f.gmsiptv.com/memfs/0ab8998e-330a-435b-80eb-c50f204d1ceb_output_0.m3u8?session=6DAdPhbykQ4NJmJMGtvKfK
+#EXTINF:0,CINEVISION CANAL 19
+https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
+#EXTINF:0,ZTV
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:0,DELTA 103.9
+https://f.gmsiptv.com/memfs/fb032989-e23c-45fe-aa1f-feac83f27d26_output_0.m3u8?session=Das597A6AuuQgMJkzeVdvj
+#EXTINF:0,CONSTANZA TV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:0,14 TV
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:0,NOTICAS 16
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:0,AIONTELEVISION
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:0,REVISTA110
+https://ss5.domint.net:3174/car_str/carivision/chunklist_w1510385245.m3u8
+#EXTINF:0,VOZZ
+https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w105080495.m3u8
+#EXTINF:0,TELECANAL 28
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+#EXTINF:0,ORIENTAL TV
+https://cdn.essastream.com:3375/live/orientaltvlive.m3u8
+#EXTINF:0,PASAJE TV
+http://160.20.165.245:8000/play/a001/index.m3u8
+#EXTINF:0,TELEMUNDO
+http://160.20.165.245:8000/play/a002/index.m3u8
+#EXTINF:0,VITO TV
+http://160.20.165.245:8000/play/a004/index.m3u8
+#EXTINF:0,A&E
+http://160.20.165.245:8000/play/a00k/index.m3u8
+#EXTINF:0,AXN
+http://160.20.165.245:8000/play/a00n/index.m3u8
+#EXTINF:0,DISCOVERY KIDS
+http://160.20.165.245:8000/play/a016/index.m3u8
+#EXTINF:0,E!
+http://160.20.165.245:8000/play/a00l/index.m3u8
+#EXTINF:0,US001:A&E HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3167
+#EXTINF:0,US002:ABC HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3166
+#EXTINF:0,US003:ABC-NEWS
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3165
+#EXTINF:0,US004:ABC 7
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3164
+#EXTINF:0,US005:ACTION MAX
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3163
+#EXTINF:0,US006:AMC HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3162
+#EXTINF:0,US007:Animal Planet HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3161
+#EXTINF:0,US008:BBC America HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3160
+#EXTINF:0,US009:BeIN Sports 1 HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3159
+#EXTINF:0,US010:BET HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3158
+#EXTINF:0,US011:BRAVO HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3157
+#EXTINF:0,US012:PAC-12 Washington
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3156
+#EXTINF:0,US013:PAC-12 Los Angeles
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3155
+#EXTINF:0,US014:PAC-12 Oregon
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3154
+#EXTINF:0,US015:Viceland HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3153
+#EXTINF:0,US016:Cartoon Network HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3152
+#EXTINF:0,US017:CBS-HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3151
+#EXTINF:0,US018:CBSN HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3150
+#EXTINF:0,US019:STARZ EAST
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3149
+#EXTINF:0,US020:CNBC HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3148
+#EXTINF:0,US021:CNN HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3147
+#EXTINF:0,US022:Comedy Central HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3146
+#EXTINF:0,US023:CW HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3145
+#EXTINF:0,US024:Destination America HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3144
+#EXTINF:0,US025:Discovery HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3143
+#EXTINF:0,US026:Disney Channel HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3142
+#EXTINF:0,US027:Disney JR HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3141
+#EXTINF:0,US028:Disney XD HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3140
+#EXTINF:0,US029:DIY Network HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3139
+#EXTINF:0,US030:E! HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3138
+#EXTINF:0,US031:ESPN-2
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3137
+#EXTINF:0,US032:ESPN-HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3136
+#EXTINF:0,US033:ESPN-News
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3135
+#EXTINF:0,US034:ESPN-U
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3134
+#EXTINF:0,US035:Food Network HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3133
+#EXTINF:0,US036:FOX-HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3132
+#EXTINF:0,US037:FOX-News
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3131
+#EXTINF:0,US038:FOX-Sports1
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3130
+#EXTINF:0,US039:FOX-Sports2
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3129
+#EXTINF:0,US040:Freeform HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3128
+#EXTINF:0,US041:FX HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3127
+#EXTINF:0,US042:FXX HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3126
+#EXTINF:0,US043:Hallmark Channel
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3125
+#EXTINF:0,US044:Hallmark Movies & Mysteries
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3124
+#EXTINF:0,US045:HBO Comedy
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3123
+#EXTINF:0,US046:HBO East
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3122
+#EXTINF:0,US047:HBO Signature
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3121
+#EXTINF:0,US048:HBO Zone
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3120
+#EXTINF:0,US049:HGTV HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3119
+#EXTINF:0,US050:History HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3118
+#EXTINF:0,US051:Investigation Discovery HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3117
+#EXTINF:0,US052:TV Land HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3116
+#EXTINF:0,US053:Lifetime HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3115
+#EXTINF:0,US054:Lifetime Movie
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3114
+#EXTINF:0,US055:HBO 2
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3113
+#EXTINF:0,US057:MSNBC HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3111
+#EXTINF:0,US058:MTV HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3110
+#EXTINF:0,US059:NAT GEO HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3109
+#EXTINF:0,US061:NBC-Golf
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3107
+#EXTINF:0,US062:NBC-HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3106
+#EXTINF:0,US063:NBCSN HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3105
+#EXTINF:0,US065:Nicktoons HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3103
+#EXTINF:0,US066:INSP HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3102
+#EXTINF:0,US067:Oprah Winfrey Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3101
+#EXTINF:0,US068:Discovery Science HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3100
+#EXTINF:0,US069:Showtime HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3099
+#EXTINF:0,US070:Showtime 2 HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3098
+#EXTINF:0,US071:SONIC
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3097
+#EXTINF:0,US072:SyFy HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3096
+#EXTINF:0,US073:TBS HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3095
+#EXTINF:0,US074:PAC-12 Bay Area
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3094
+#EXTINF:0,US075:TLC HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3093
+#EXTINF:0,US076:TNT HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3092
+#EXTINF:0,US077:Travel channel
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3091
+#EXTINF:0,US078:TRU TV
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3090
+#EXTINF:0,US079:USA Network HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3089
+#EXTINF:0,US080:DEUTSCHE WELLE TV
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3088
+#EXTINF:0,US081:VH1 HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3087
+#EXTINF:0,US082:WE TV HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3086
+#EXTINF:0,US083:The Weather Channel HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3085
+#EXTINF:0,US084:UFC Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3084
+#EXTINF:0,US085:WWE-Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3083
+#EXTINF:0,US086:Tennis HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3082
+#EXTINF:0,US087:NESN
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3081
+#EXTINF:0,US088:CBS Sports Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3080
+#EXTINF:0,US090:Fox Sports Yes
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3078
+#EXTINF:0,US091:SEC Network HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3077
+#EXTINF:0,US092:Big Ten Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3076
+#EXTINF:0,US093:MYTV NEW YORK
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3075
+#EXTINF:0,US094:Fox Business Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3074
+#EXTINF:0,US095:PBS Kids HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3073
+#EXTINF:0,US096:CBN HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3072
+#EXTINF:0,US097:Circle
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3071
+#EXTINF:0,US098:News 12 Westchester
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3070
+#EXTINF:0,US099:Fox Sports NetBase
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30091
+#EXTINF:0,US100:Fox Sports Sportstime Ohio
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30090
+#EXTINF:0,US101:Fox Sports Yes Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30089
+#EXTINF:0,US102:Fox Sports San Diego
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30088
+#EXTINF:0,US103:Fox Sports Sun
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30087
+#EXTINF:0,US104:Fox Sports Detroit
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30086
+#EXTINF:0,US105:Fox Sports Ohio
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30085
+#EXTINF:0,US106:Fox Sports North
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30084
+#EXTINF:0,US107:Fox Sports Indiana
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30083
+#EXTINF:0,US108:Fox Sports Florida
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30082
+#EXTINF:0,US109:Fox Sports Arizona
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30081
+#EXTINF:0,US110:Fox Sports Wisconsin
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30080
+#EXTINF:0,US111:Fox Sports West
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30079
+#EXTINF:0,US112:Fox Sports South
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30078
+#EXTINF:0,US113:Fox Sports Southeast
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30077
+#EXTINF:0,US114:Fox Sports Southwest Plus
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30076
+#EXTINF:0,US115:Fox Sports Southwest
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30075
+#EXTINF:0,US116:ABC 33 (KSPR) Missouri
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30074
+#EXTINF:0,US117:Fox Sports 2
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30073
+#EXTINF:0,US118:Fox Sports Oklahoma
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30072
+#EXTINF:0,US119:Fox Sacramento
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30071
+#EXTINF:0,US120:Fox Sports Kansas City Plu
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30070
+#EXTINF:0,US121:Fox Sports Prime Ticket
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30069
+#EXTINF:0,US122:NBC 13 (WHO) Des Moines
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30068
+#EXTINF:0,US123:Root Sports Northwest Plus
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30067
+#EXTINF:0,US124:AT&T Sportsnet Southwest ALT
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30066
+#EXTINF:0,US125:AT&T SportsNet Pittsburgh
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30065
+#EXTINF:0,US126:AT&T SportsNet Pittsburgh Alternate
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30064
+#EXTINF:0,US933:AT&T SportsNet Southwest
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/31051
+#EXTINF:0,US934:UFC FIGHT PASS
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/31050
+#EXTINF:0,US128:Root Sports Northwest
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30062
+#EXTINF:0,US130:NAT GEO WILD HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30060
+#EXTINF:0,US131:Game Show Network HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30059
+#EXTINF:0,US132:Stadium Sports 1
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30058
+#EXTINF:0,US133:Stadium Sports 2
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30057
+#EXTINF:0,US134:Stadium Sports 3
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30056
+#EXTINF:0,US135:SportsNet New York
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30055
+#EXTINF:0,US136:TyC Sports
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30054
+#EXTINF:0,US137:TCM
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30053
+#EXTINF:0,US138:MSG HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30052
+#EXTINF:0,US139:MSG 2 HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30051
+#EXTINF:0,US140:MSG Plus
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30050
+#EXTINF:0,US141:Nickelodeon HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30049
+#EXTINF:0,US142:Marquee Sports Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30048
+#EXTINF:0,US143:AXS TV HD
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30047
+#EXTINF:0,US144:Bally Sports Carolinas
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30046
+#EXTINF:0,US145:Fight Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30045
+#EXTINF:0,US146:FNTSY Sports Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30044
+#EXTINF:0,US147:News 12 Connecticut
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30043
+#EXTINF:0,US148:TRACE URBAN
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30042
+#EXTINF:0,US149:AT&T Sportsnet
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30041
+#EXTINF:0,US150:World_Fishing_Network
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30040
+#EXTINF:0,US151:NESN_BOS
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30039
+#EXTINF:0,US152:NESN_PLUS
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30038
+#EXTINF:0,US153:Sportsman_Channel
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30037
+#EXTINF:0,US154:CBS (KCBS) Los Angeles
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30036
+#EXTINF:0,US155:Eleven_Sports
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30035
+#EXTINF:0,US156:NBC_Golf_Channel
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30034
+#EXTINF:0,US157:NBC Sports

@@ -1,4 +1,7 @@
-Darwin Perez:
+	darwin perez <supplygenius01@gmail.com>
+Cable Discovery mantenimiento
+darwin perez <supplygenius01@gmail.com>	17 de julio de 2024, 11:20
+Para: darwin perez <supplygenius01@gmail.com>
 #EXTM3U
 #EXTINF:17,Tele Antillas - https://f.gmsiptv.com/4fee3822-bd61-4c0c-b50c-e98117529fdc/oembed.json
 https://f.gmsiptv.com/memfs/4fee3822-bd61-4c0c-b50c-e98117529fdc_output_0.m3u8?session=NP7bmdbHxnE9Ep2vvWAvNX
@@ -77,9 +80,7 @@ https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
 #EXTINF:0,ZTV
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:0,DELTA 103.9
-https://f.gmsiptv.com/memfs/fb032989-e23c-45fe-aa1f-feac83f27d26_output_0.m3u8?session=Das597A6Auu
-
-QgMJkzeVdvj
+https://f.gmsiptv.com/memfs/fb032989-e23c-45fe-aa1f-feac83f27d26_output_0.m3u8?session=Das597A6AuuQgMJkzeVdvj
 #EXTINF:0,CONSTANZA TV
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:0,14 TV
@@ -173,9 +174,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3138
 #EXTINF:0,US031:ESPN-2
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3137
 #EXTINF:0,US032:ESPN-HD
-http:
-
-//vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3136
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3136
 #EXTINF:0,US033:ESPN-News
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3135
 #EXTINF:0,US034:ESPN-U
@@ -262,9 +261,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3092
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3091
 #EXTINF:0,US078:TRU TV
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3090
-#EXTINF:0,US079:US
-
-A Network HD
+#EXTINF:0,US079:USA Network HD
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3089
 #EXTINF:0,US080:DEUTSCHE WELLE TV
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3088
@@ -347,8 +344,6 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30071
 #EXTINF:0,US120:Fox Sports Kansas City Plu
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30070
 #EXTINF:0,US121:Fox Sports Prime Ticket
-
-
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30069
 #EXTINF:0,US122:NBC 13 (WHO) Des Moines
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30068
@@ -429,9 +424,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30031
 #EXTINF:0,US160:NBC Sports Chicago
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30030
 #EXTINF:0,US161:NBC Sports Bay Area
-http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30
-
-029
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30029
 #EXTINF:0,US162:NBC Sports Network
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/30028
 #EXTINF:0,US165:NBC Sports Network
@@ -511,9 +504,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29968
 #EXTINF:0,US223:CBS 11 (KMVT) TWIN FALLS
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29967
 #EXTINF:0,US224:CBS 11 (KTHV) LITTLE ROCK
-http://vo01.mohdtv.com:8880/ALLChann
-
-els5CC5631DBB61/42435832/29966
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29966
 #EXTINF:0,US225:CBS 11 (KTVT) FORT WORTH
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29965
 #EXTINF:0,US226:CBS 9 (WUSA) Washington
@@ -587,9 +578,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29901
 #EXTINF:0,US290:CBS 2 (WBBM) CHICAGO
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29900
 #EXTINF:0,US291:CBS 12 (WKRC) Cincinnati
-h
-
-ttp://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29899
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29899
 #EXTINF:0,US292:CBS 23 (WIFR-LD) ROCKFORD
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29898
 #EXTINF:0,US293:CBS 27 (WKBN) YOUNGSTOWN
@@ -666,9 +655,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29863
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29862
 #EXTINF:0,US329:CBS (WNCT) Greenville
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29861
-#EXTIN
-
-F:0,US330:CBS 5 (WTVH) SYRACUSE
+#EXTINF:0,US330:CBS 5 (WTVH) SYRACUSE
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29860
 #EXTINF:0,US331:CBS (KFDA) Amarillo
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29859
@@ -747,9 +734,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29772
 #EXTINF:0,US420:Reelz Channel
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29770
 #EXTINF:0,US421:FOX 8 (WJW) CLEVELAND
-http://vo01.mohdtv.co
-
-m:8880/ALLChannels5CC5631DBB61/42435832/29769
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29769
 #EXTINF:0,US425:FOXNet Binghampton
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29765
 #EXTINF:0,US426:FOX (WXXA) ALBANY
@@ -828,9 +813,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29728
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29727
 #EXTINF:0,US464:FOX 68 (WSYT) SYRACUSE
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29726
-#EXTINF:0,US465:FOX 29 WES
-
-T PALM BEACH
+#EXTINF:0,US465:FOX 29 WEST PALM BEACH
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29725
 #EXTINF:0,US466:FOX 36 (WUPW) Toledo
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29724
@@ -909,9 +892,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29686
 #EXTINF:0,US505:NBC 10 COLUMBIA
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29685
 #EXTINF:0,US506:NBC MILWAUKEE
-http://vo01
-
-.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29684
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29684
 #EXTINF:0,US507:NBC JACKSONVILLE
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29683
 #EXTINF:0,US508:NBC CINCINNATI
@@ -991,9 +972,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29646
 #EXTINF:0,US545:NBC 9 DENVER
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29645
 #EXTINF:0,US546:NBC 11 BALTIMORE
-http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/424
-
-35832/29644
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29644
 #EXTINF:0,US547:NBC 10 PHILADELPHIA
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29643
 #EXTINF:0,US548:NBC 4 DETROIT
@@ -1071,9 +1050,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29607
 #EXTINF:0,US584:NBC 4 (WNBC) NEW YORK
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29606
 #EXTINF:0,US585:NBC 4 (WRC) WASHINGTON
-http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB6
-
-1/42435832/29605
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29605
 #EXTINF:0,US586:NBC 4 (WSMV) NASHVILLE
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29604
 #EXTINF:0,US587:NBC 4 (WTMJ) MILWAUKEE
@@ -1151,9 +1128,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29497
 #EXTINF:0,US694:Bloomberg
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29496
 #EXTINF:0,US695:ABC 5 (WOI) West Des Moine
-http://vo01.mohdtv.com:8880/ALLChannel
-
-s5CC5631DBB61/42435832/29495
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29495
 #EXTINF:0,US696:Starz Edge HD
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29494
 #EXTINF:0,US697:Starz Encore
@@ -1233,9 +1208,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29457
 #EXTINF:0,US734:ABC Charlotte
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29456
 #EXTINF:0,US735:Starz Kids & Family FHD
-http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61
-
-/42435832/29455
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29455
 #EXTINF:0,US737:Abc_Kgtv_Sad
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29453
 #EXTINF:0,US738:ABC_wjla_wdc
@@ -1317,9 +1290,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/64352
 #EXTINF:0,US778:Cinemax ThrillerMax
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/64353
 #EXTINF:0,US780:Cinemax West HD
-http://v
-
-o01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/64355
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/64355
 #EXTINF:0,US781:Cinemax East
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/64356
 #EXTINF:0,US782:MoreMax HD
@@ -1402,9 +1373,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/31565
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/31567
 #EXTINF:0,US819:MeTV
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/31568
-#EXTINF:0,US820
-
-:Willow Cricket
+#EXTINF:0,US820:Willow Cricket
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/31569
 #EXTINF:0,US821:TVG Horse Racing
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/31571
@@ -1483,9 +1452,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/60109
 #EXTINF:0,US888:Showtime Next HD
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/60214
 #EXTINF:0,US889:FYI
-http://vo01.mohdtv.com:8880/ALLChannels5CC5631D
-
-BB61/42435832/60245
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/60245
 #EXTINF:0,US891:Pursuit Channel
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/60206
 #EXTINF:0,US892:Marquee Sports
@@ -1564,9 +1531,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/60972
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/60613
 #EXTINF:0,US064:NFL-Network
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3104
-#EXTINF:0,US089:NFL
-
- RedZone
+#EXTINF:0,US089:NFL RedZone
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/3079
 #EXTINF:0,US618:NFL-Browns SD
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/29572
@@ -1649,9 +1614,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/68760
 #EXTINF:0,US945:NFL-Lions FHD
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/68761
 #EXTINF:0,US946:NFL-Packers FHD
-http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/6
-
-8762
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/68762
 #EXTINF:0,US947:NFL-Panthers FHD
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/68763
 #EXTINF:0,US948:NFL-Patriots FHD
@@ -1731,9 +1694,7 @@ http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/59229
 #EXTINF:0,US912:NHL Dallas Stars
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/59230
 #EXTINF:0,US913:NHL Columbus Blue Jackets
-http://vo01.mohdtv.com:8880/ALLChannels5CC5631
-
-DBB61/42435832/59231
+http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/59231
 #EXTINF:0,US914:NHL Colorado Avalanche
 http://vo01.mohdtv.com:8880/ALLChannels5CC5631DBB61/42435832/59237
 #EXTINF:0,US915:NHL Chicago Blackhawks
@@ -1835,9 +1796,7 @@ http://160.20.165.245:8000/play/a01b/index.m3u8
 #EXTINF:0,MI MUSICA SALSA
 http://160.20.165.245:8000/play/a01a/index.m3u8
 #EXTINF:0,OROMARTV
-http://160.20.165.245
-
-:8000/play/a00t/index.m3u8
+http://160.20.165.245:8000/play/a00t/index.m3u8
 #EXTINF:0,RT ESPA OL
 http://160.20.165.245:8000/play/a00w/index.m3u8
 #EXTINF:0,RTU
@@ -1928,9 +1887,7 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,eSports Max TV 
-
-| VE
+#EXTINF:0,eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,TRV | VE
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
@@ -2007,9 +1964,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Chilecito TV | AR
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8?PlaylistM3UCL
 #EXTINF:0,CPE TV | AR
-https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3U
-
-CL
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Eco TV | AR
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Encuentro | AR
@@ -2041,7 +1996,4 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Radiocanal San Francisco | AR
 http://204.199.3.2/.m3u8?PlaylistM3UCL
 #EXTINF:0,Sello TV | AR
-https://5f700d5b2c46f.streamlock.net:443/elsellotv/elsellotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Sicardi TV | AR
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
-#EXTINF:0,…
+https://5f700d…

@@ -1,133 +1,536 @@
 #EXTM3U
-#EXTINF:33,Tele Antillas - https://f.gmsiptv.com/4fee3822-bd61-4c0c-b50c-e98117529fdc/oembed.json
-https://glb.bozztv.com/glb/ssh101/0010/tracks-v1a1/mono.m3u8
-#EXTINF:0,Canal 4 RD
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:0,TeleMicro - RD
-https://fl1002.bozztv.com/ssh101/0005/tracks-v1a1/mono.m3u8
-#EXTINF:0,Antena 7-RD
-https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
-#EXTINF:0,COLOR VISION
-https://glb.bozztv.com/glb/ssh101/0009/tracks-v1a1/mono.m3u8
-#EXTINF:0,Telesistema RD
-https://glb.bozztv.com/glb/ssh101/0011/tracks-v1a1/mono.m3u8
-#EXTINF:0,Telecentro - Telecentro - RD
-https://glb.bozztv.com/glb/ssh101/0013/tracks-v1a1/mono.m3u8
-#EXTINF:0,Digital 15 - RD
-https://glb.bozztv.com/glb/ssh101/0015/tracks-v1a1/mono.m3u8
-#EXTINF:0,Teleuniverso - Teleuniverso - RD
-https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-#EXTINF:0,RNN | DO
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,CDN (720p)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-#EXTINF:0,AME 47 | DO
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Tu Musica HD | DO
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
-#EXTINF:0,Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,La Fe Mueve Montanas | DO
-https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Farovision | DO
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Fuego TV | DO
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,GH Television | DO
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
-#EXTINF:0,Guaymate TV | DO
-https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Microvision | DO
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Ready TV | DO
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Canal 25
-https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:0,RNN | DO
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Tele Oriental Digital | DO
-https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
-#EXTINF:0,TNI 51 | DO
-https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Yunavision | DO
-https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Zol 106.5 FM | DO
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,ALTANTO TV
-https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
-#EXTINF:0,CINEVISION CANAL 19
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
-#EXTINF:0,ANTENA 21
-https://fl1002.bozztv.com/ssh101/0021/tracks-v1a1/mono.m3u8
-#EXTINF:0,TELEFUTURO
-https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w1620258161.m3u8
-#EXTINF:0,TELEUNIVERSO
-https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-#EXTINF:0,TELEMEDIOS
-https://ss3.domint.net:3150/c25_str/canal25/chunklist_w2005174444.m3u8
-#EXTINF:0,TELERADIO AMERICA
-https://deultimominuto01.streamprolive.com/hls/live.m3u8
-#EXTINF:0,EL NUEVO DIARIO TV
-https://ssh101-fl.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
-#EXTINF:0,ALTANTO TV
-https://f.gmsiptv.com/memfs/0ab8998e-330a-435b-80eb-c50f204d1ceb_output_0.m3u8?session=6DAdPhbykQ4NJmJMGtvKfK
-#EXTINF:0,CINEVISION CANAL 19
-https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
-#EXTINF:0,ZTV
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
-#EXTINF:0,DELTA 103.9
-https://f.gmsiptv.com/memfs/fb032989-e23c-45fe-aa1f-feac83f27d26_output_0.m3u8?session=Das597A6AuuQgMJkzeVdvj
-#EXTINF:0,CONSTANZA TV
-https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:0,14 TV
+#EXTINF:9,RD Teleantillas
+http://51.81.106.147:5080/LiveApp/streams/tantillas.m3u8
+#EXTINF:60,Bloomberg
+https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,RD TV Luz
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:0,RD Mision ELTV
+https://f.gmsiptv.com/memfs/b0b45b0e-46de-4069-881f-50b6ab46b473.m3u8
+#EXTINF:0,RD RTVD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1516418525_b1663840.m3u8
+#EXTINF:0,RD Telemicro
+https://f.gmsiptv.com/memfs/5604a02b-a682-4561-a4c2-842948cced7e.m3u8
+#EXTINF:0,Canal del Sol
+https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
+#EXTINF:0,RD Antena7
+https://f.gmsiptv.com/memfs/cac20fb4-39bb-4f44-8b00-8c568b0196e6.m3u8
+#EXTINF:0,RD Bellavision
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:0,RD Color Vision
+https://f.gmsiptv.com/memfs/26e4d12d-2af7-45a4-bd80-27587e93d07b.m3u8
+#EXTINF:0,RD Telesistema
+https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
+#EXTINF:0,RD ZTV
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:0,RD Telecentro
+https://f.gmsiptv.com/memfs/0fbfb160-b15d-4013-85ef-59404ed433d6.m3u8
+#EXTINF:0,RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
-#EXTINF:0,NOTICAS 16
-https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
-#EXTINF:0,AIONTELEVISION
+#EXTINF:0,RD Digital Quince
+https://fl1002.bozztv.com/ssh101/0015/index.m3u8
+#EXTINF:0,RD N16
+https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:0,RD AION
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:0,REVISTA110
-https://ss5.domint.net:3174/car_str/carivision/chunklist_w1510385245.m3u8
-#EXTINF:0,VOZZ
-https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w105080495.m3u8
-#EXTINF:0,TELECANAL 28
-https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
-#EXTINF:0,ORIENTAL TV
-https://cdn.essastream.com:3375/live/orientaltvlive.m3u8
-#EXTINF:0,RNN | DO
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,CDN (720p)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-#EXTINF:0,AME 47 | DO
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Tu Musica HD | DO
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
-#EXTINF:0,Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,La Fe Mueve Montanas | DO
-https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Farovision | DO
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Fuego TV | DO
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Guaymate TV | DO
-https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Microvision | DO
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Ready TV | DO
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Canal 25
+#EXTINF:0,RD Carivision
+https://fl1002.bozztv.com/ssh101/0018/index.m3u8
+#EXTINF:0,RD Canal 19
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:0,RD Cielo
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:0,RD Antena21
+https://fl1002.bozztv.com/ssh101/0021/index.m3u8
+#EXTINF:0,RD TVH
+https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
+#EXTINF:0,RD Telefuturo
+https://ss9.domint.net:3054/tf_str/telefuturo/.m3u8
+#EXTINF:0,RD Multivision
+https://ssh101-fl.bozztv.com/ssh101/canalmulti24/index.m3u8
+#EXTINF:0,RD Telemedios
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:0,RNN | DO
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,TNI 51 | DO
-https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Yunavision | DO
-https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Zol 106.5 FM | DO
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RD Makao
+https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:0,RD RNN
+https://ss2.domint.net:3202/rnn_str/canal27/.m3u8
+#EXTINF:0,RD Vegateve
+https://kali.vdopanel.com:3396/live/arseniolive.m3u8
+#EXTINF:0,RD Teleuniverso
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:0,RD Televida
+https://f.gmsiptv.com/memfs/f0e6772a-6e9c-4e76-8104-e7140b33011f.m3u8
+#EXTINF:0,RD entelevision
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+#EXTINF:0,RD VTV
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:0,RD Microvision
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
+#EXTINF:0,RD Hilando Fino TV
+https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
+#EXTINF:0,RD Zol
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:0,RD Bellavision
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:0,RD CDN37
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/.m3u8
+#EXTINF:0,RD Acento
+https://f.gmsiptv.com/memfs/9c01095f-82c5-42e7-bd33-7b2e88860fb0.m3u8
+#EXTINF:0,RD Coral
+http://51.81.106.147:5080/LiveApp/streams/coral39.m3u8
+#EXTINF:0,RD Vozz
+https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8
+#EXTINF:0,RD AltantoTV
+https://streaming.altantotv.domiplay.net/hls/stream.m3u8
+#EXTINF:0,RD RomanaTV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:0,RD Telenovisa
+https://f.gmsiptv.com/memfs/f7fc75d3-5dbd-4341-aed2-868f099dbfe5.m3u8
+#EXTINF:0,RD Megavision
+https://server2grupocam.com/megavision/MV/playlist.m3u8
+#EXTINF:0,RD De Ultimo Minuto
+https://glb.bozztv.com/glb/ssh101/0045/index.m3u8
+#EXTINF:0,RD BajoTecho
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
+#EXTINF:0,RD SiTV
+https://f.gmsiptv.com/memfs/d085f31a-955c-43a8-ac83-d5fe30f623db.m3u8
+#EXTINF:0,RD EL Nuevo Diario
+https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
+#EXTINF:0,RD Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:0,RD Telemilenio
+https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
+#EXTINF:0,RD Cotubanama
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:0,RD Teleimpacto
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:0,RD Luna
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:0,RD LVM
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/.m3u8
+#EXTINF:0,RD SuperTV55
+https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
+#EXTINF:0,RD Canal 56
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+#EXTINF:0,RD Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:0,RD Valle Nuevo TV
+https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:0,RD Rumba
+https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
+#EXTINF:0,RD Telealtura 
+https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
+#EXTINF:0,RD TV Vision
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+#EXTINF:0,RD DTV
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:0,RD GDM Studio
+https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
+#EXTINF:0,RD El Puerto
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/.m3u8
+#EXTINF:0,RD Musavisi n
+https://soportedvb.click:3827/live/musavisiontvlive.m3u8
+#EXTINF:0,RD Vegavision
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+#EXTINF:0,RD Ready
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:0,RD La Reina
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+#EXTINF:0,RD Fuego
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:0,RD Super7
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:0,RD AhoraTV
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+#EXTINF:0,RD CDN Radio
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6a28df0ab60c47c18390887522edd6f3/chunklist_b4628000.m3u8?p=79&s=1712609478&e=1712609598&h=05b22ce1d37d20a9d64241e2465094cf
+#EXTINF:0,RD Galaxia
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:0,RD Guaymate
+https://5790d294af2dc.streamlock.net/8100/8100/.m3u8
+#EXTINF:0,RD BebetoTV
+https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
+#EXTINF:0,RD Opcion
+https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:0,RD Zona Vision
+https://5790d294af2dc.streamlock.net/Zonavisiontv/Zonavisiontv/.m3u8
+#EXTINF:0,RD ArrozTV
+https://inliveserver.com:1936/11548/11548/playlist.m3u8
+#EXTINF:0,RD TV10M San Juan
+https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
+#EXTINF:0,RD CTN horaXhora
+https://59ef525c24caa.streamlock.net/ctn/ctn/.m3u8
+#EXTINF:0,RD Elias Pi a TV
+https://cloud2.streaminglivehd.com:1936/8100/8100/playlist.m3u8
+#EXTINF:0,RD CanangaTV
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:0,RD Televisi n del Este
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:0,RD R&E
+http://live.ryetv.com.do/livelan/stream.m3u8
+#EXTINF:0,Teleunion
+https://server2grupocam.com/teleunion/TU/.m3u8
+#EXTINF:0,RD Jiman TV
+https://cloud2.streaminglivehd.com:1936/8246/8246/.m3u8
+#EXTINF:0,RD Karina
+https://grupocibermedios.com:3942/hybrid/play.m3u8
+#EXTINF:0,RD Digital809TV
+https://inliveserver.com:1936/digital809tv/digital809tv/.m3u8
+#EXTINF:0,RD Telemax
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+#EXTINF:0,RD Buena TV
+https://rdn.essastream.com:3883/live/buenatvlive.m3u8
+#EXTINF:0,RD RenuevoTV
+https://ss3.domint.net:3130/rtv_str/renuevotv/playlist.m3u8
+#EXTINF:0,RD Le aTV
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
+#EXTINF:0,RD TVM
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
+#EXTINF:0,RD Nueva Visi n
+https://ssh101-fl.bozztv.com/ssh101/nuevavisionhd/playlist.m3u8
+#EXTINF:0,RD Villa TV
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:0,RD TVO
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?DVR
+#EXTINF:0,RD enntivision
+https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
+#EXTINF:0,RD CromTV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:0,RD Telecanal12
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+#EXTINF:0,RD Vision NDV
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+#EXTINF:0,RD San Isidro
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+#EXTINF:0,RD Onda
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+#EXTINF:0,RD La Ruta
+https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
+#EXTINF:0,RD CitricoTV
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
+#EXTINF:0,RD TNI
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
+#EXTINF:0,Su Mundo TV
+https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+#EXTINF:0,RD Agenda56
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:0,RD GHTV
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:0,RD Haina Vision
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:0,RD Cibae aTV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:0,RD MaimonTV
+https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
+#EXTINF:0,RD Canalda
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:0,RD Canal HTV
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:0,RD Vallevision
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:0,RD Hispanic
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:0,RD MegaTV
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:0,RD TV Latina Int.
+https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
+#EXTINF:0,RD ReporteroTV
+https://rdn.essastream.com:3832/live/reporterotvlive.m3u8
+#EXTINF:0,RD Marka TV
+https://rdn.essastream.com:3909/live/markatvlive.m3u8
+#EXTINF:0,RD HMTV
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:0,RD La mia
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+#EXTINF:0,RD PrensaTV
+https://cdn5.streamgato.us:3300/live/prensatvlive.m3u8
+#EXTINF:0,RD SurTV
+https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8
+#EXTINF:0,RD Teleradio Norte
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:0,RD Yuna Vision
+https://ss9.domint.net:3036/yv_str/yunavision/.m3u8
+#EXTINF:0,RD Tele Oriental
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+#EXTINF:0,RD TeleCibao
+https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
+#EXTINF:0,RD Rteve
+https://cnn2.hostlagarto.com:3325/live/rtelevisionlive.m3u8
+#EXTINF:0,RD DajaTV
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+#EXTINF:0,RD OEPM
+https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
+#EXTINF:0,RD TVS
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:0,CO Televiaducto03
+https://f.gmsiptv.com/memfs/2e143192-db35-40b4-879d-a728fd4954ad.m3u8
+#EXTINF:0,RD CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:0,RD Portal Digital
+https://vdo1.streamgato.us:3999/live/portaldigitallive.m3u8
+#EXTINF:0,RD InformeTV
+https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
+#EXTINF:0,RD La Voz del Tropico
+https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
+#EXTINF:0,RD Peravia Visi n
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+#EXTINF:0,RD v3000
+https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
+#EXTINF:0,RD Faro Vision
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:0,RD Telesiglo
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:0,RD Nexxo
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:0,RD Mi Turno
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:0,RD Palmar TV
+https://vsrv2.az-streamingserver.com:3255/live/palmartvlive.m3u8
+#EXTINF:0,RD Manaclar
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:0,RD Radio Digital TV
+https://vdo.voxhdnet.com:3159/stream/play.m3u8
+#EXTINF:0,RD Radio Emanuel
+https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8
+#EXTINF:0,RD CanaTV
+https://streams.hostuis.com:19360/vcfarbxjam/vcfarbxjam.m3u8
+#EXTINF:0,RD Mia Vision
+https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
+#EXTINF:0,RD NitidaTV
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:0,RD MorroTV
+https://soportedvb.click:3257/live/morrotvlive.m3u8
+#EXTINF:0,RD Xtremo Channel
+https://ss9.domint.net:3002/xtr_str/xtremochannel/playlist.m3u8
+#EXTINF:0,RD Telenord 8
+https://streamingamericaservice.info:19360/telenord8/telenord8.m3u8
+#EXTINF:0,RD Telenord 10
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+#EXTINF:0,RD Telenord 12
+https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
+#EXTINF:0,RD Ecovision
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:0,RD Se ales
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+#EXTINF:0,RD Ruta66
+https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
+#EXTINF:0,RD Telecanal28
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+#EXTINF:0,RD P3 RADIO TV
+https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
+#EXTINF:0,RD Makina Visi n
+https://cdn5.streamgato.us/p/3059/live/maquinatvlive.m3u8
+#EXTINF:0,RD Tele Caribe
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+#EXTINF:0,RD TLSD
+https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
+#EXTINF:0,RD Fuerza Externa
+https://streamtv.intervenhosting.net:3404/live/fuerzaexternalive.m3u8
+#EXTINF:0,RD Luz Divina TV
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+#EXTINF:0,RD TRA
+https://f.gmsiptv.com/memfs/f2cc6a9f-48cb-4e96-a234-d22d36227782.m3u8
+#EXTINF:0,RD PuntoTV
+https://ss5.domint.net:3042/ptv_str/puntotv/playlist.m3u8
+#EXTINF:0,RD Punta Cana TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:0,RD CelestialTV
+https://5790d294af2dc.streamlock.net:443/celestial/celestial/playlist.m3u8
+#EXTINF:0,RD Telever
+https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
+#EXTINF:0,RD RDN
+https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
+#EXTINF:0,RD SiembraTV
+https://vsrv2.az-streamingserver.com:3809/live/siembratvlive.m3u8
+#EXTINF:0,RD ManaclarTV
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:0,RD Telejarabacoa
+https://glb.bozztv.com/glb/ssh101/amigote2021/index.m3u8
+#EXTINF:0,173 RD SensacionTV
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+#EXTINF:0,178 RD CDN Deportes
+https://f.gmsiptv.com/memfs/50374a75-3480-4076-adb2-2c4638a47d0b.m3u8
+#EXTINF:0,RD RealTV
+https://f.gmsiptv.com/memfs/c00fcfde-a4f1-4720-a367-755cdbb9e492.m3u8
+#EXTINF:0,RD TNE58
+https://f.gmsiptv.com/memfs/6f137b2f-c6f5-4087-89bc-732cf5d09fbf.m3u8
+#EXTINF:0,TV Avivamiento
+https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
+#EXTINF:0,LinierosTV
+https://f.gmsiptv.com/memfs/7c43bb26-2b9b-4e1a-85c7-483dae27e8b4.m3u8
+#EXTINF:0,RD TV Quisqueya
+https://fl1002.bozztv.com/ssh101/tvquisquelive92/index.m3u8
+#EXTINF:60,Bloomberg
+https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,ExitosaTV
+https://5790d294af2dc.streamlock.net/exitosatv/exitosatv/playlist.m3u8
+#EXTINF:0,TV Avivamiento
+https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
+#EXTINF:0,Bloomberg 1
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Bloomberg 2
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:0,CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:0,CNBC Africa
+https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8
+#EXTINF:0,Fox Business
+rtmp://41.205.93.154/static/FOXBUSINESS
+https://f.gmsiptv.com/memfs/a93d476e-3bfc-40ae-9882-03cf8a7e8e07.m3u8
+#EXTINF:0,BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:0,Negocios.
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:0,TD Ameritrade
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:0,Yahoo! Finance
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Ausbiz
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:0,Defiance
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:0,ComercioTV
+https://d1plnmgh5zr5od.cloudfront.net/out/v1/cd37c119824247bc8886fc6c18f645d9/index.m3u8
+#EXTINF:0,LinierosTV
+https://f.gmsiptv.com/memfs/7c43bb26-2b9b-4e1a-85c7-483dae27e8b4.m3u8
+#EXTINF:0,WOW!
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0,WTV
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:0,Cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:0,PHTV
+https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
+#EXTINF:0,Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
+#EXTINF:0,IUTV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:0,Romance
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+#EXTINF:0,Clasicos
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+#EXTINF:0,Crimen
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+#EXTINF:0,Comedia
+https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
+#EXTINF:0,Cine
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+#EXTINF:0,Accion
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:0,My TV Clasicos
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:0,Canela Classics
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=cedda9b5b2307a1fde49393681a0d8e7&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1646882540&id=13487&ip=200.88.92.239&override_expiration=1500&sign=JEXvc3k33wnePEu3aPVLzzXE8tz2HBvh6RRveblS71M%3D
+#EXTINF:0,Mytime 1
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0,Mytime 2
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,Mytime 3
+https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
+#EXTINF:0,Mega Cine
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:0,F&C
+https://fast-tcsand.thechannel.store/fast-channel-film-and-co/fast-channel-film-and-co.m3u8
+#EXTINF:0,Flou Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8?us_privacy=0&rnd=3qph&aid=6eff0d02-9a6a-435f-b9e5-cfb82cebdf04&deviceOS=&width=1125&height=633&deviceMake=Web&deviceId=6eff0d02-9a6a-435f-b9e5-cfb82cebdf04&deviceIdType=cookie&deviceDNT=0&bundle=undefined&app_version=202105131041&appCategory=entertainment&storeurl=undefined&gdpr=0&env_i=53cc0b98-6ef5-4065-9a6b-f8496a464833&env_u=6eff0d02-9a6a-435f-b9e5-cfb82cebdf04&lat=18.46150&long=-69.89650&geo=DO&deviceConnectionType=2&dma=false&geoType=2&user_agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F121.0.0.0%20Safari%2F537.36&paln=AQzzBGQEhYpmz5doSw0jzQVmyoopXxJMdDaonF_z1fFwDdNwaJ-HZ_hEhXmj3oaTE8Gqv7BDqSaeM2Xb4LjTtKnMgL7oyZlyClz6eSwHyiKOwXSWylYMZDTYt-O-NfPO3mZor7rkfzQ1Ifg57BHUz8wxfX-_WmNBrF4NwtUy55n8Ry44zY86aApTM0Zb_GBF-sUD4E8Ax9nEB_eKqz_VPOuBntkU4QY5N7qCdMRNguQ2WcCTpkmt0ZWhA1a8mi2KiNKlLnlBJdReJEtbM5mmYRTrv3fpaZmqx8Tzpu02J0OjHtaqNnP7MwIhN-DMIT63hNoHW9VKuvevquqFc-PQyspSsw3zBqkd21HjfDG5wHMpManZc0nueyiS__HaQYUVmMDq7GCZ4agfx_XF_jEGqjRwtk8ttyEwnumQA6fdLeRJpcb0yWiN5lT1IX2lXRIgefgFCPbXw2cl2q5t7EmdpxqhX8iBGZOEiIEIK_rKgAIDv7eRAWICiWSEkWO2dPWYWaBUVKHR8P9fiaf0VH0hwswS6gzAHa5LDsWLNfQfgtED6soqk67qJmfWwjg5fL-XPNt1V2HGUVCmR9ykzNZSU_KFnn1XYoMVS3RNLiZwX3WOyASCCjm1Skj6i5F-nGzuOEpLlydPQzGo3GHPB_n4t5ZYnvgLP9-TnlIfGydGExxPSmibk-ykMAp4m9Kr1RTAohSW3x8lWyUGqXALT_CrZ6whPB6EDKBDbNMKpbw93jRXpKPN-9fwApMJMZU4v5EGdNgedTiCe7bG8GXGgSXk0Z3PbTacXdyh506QYmDhGB4MbAPgADDij-khvukNhxxV8pbu94PS2yfTZ60a5srveu4s2sK0LQPmMsHr3IKakHrZOLviLwEdgxyd6MXH0ggOygo4mm23cEMxNB7qqkYGd5kzrK-7FGn27xodHg9qo6aUs6lCqyZRdoHrDjYokug-fNzVLvpgxwfWEoYkG0X-Ci0oMC11-3eNNoKt8RFFsGdAd1a9OuvECiOoFEMwRQ4DRfndHywGp8tvQhizpMNpw3kToSwPIKVq4KAX8LoFVRVjtCO41aw4LKItkfxBFw19HllzWnufokmQntHSWzGMavn9aEnQpEKZsb8HLLnCBCSYmhkPT5d4mWaOFl7a-Kp9n0U9_q528IgUc6HAElfsBw-pLic-P3R8YIuKEE14Cw..&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Action
+https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0,Cine 2
+https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0,Action
+https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Comedia
+https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0,TVRetro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:0,Comedias 
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=428&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0,CanelaTV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop
+#EXTINF:0,FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:0,Moviefe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:0,CDN Deportes
+http://51.81.106.147:5080/LiveApp/streams/cdnsport.m3u8
+#EXTINF:0,Adventure Sports TV
+https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
+#EXTINF:0,ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:0,Colimdo
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:0,Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:0,Real Madrid 2
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:0,MLB Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pix11
+http://208.86.19.13:81/106.stream/index.m3u8
+#EXTINF:0,US Univision Miami
+https://f.gmsiptv.com/memfs/d21d4cfb-14b4-4183-a679-8760dcb19661.m3u8
+#EXTINF:0,Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,Telemundo 51
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:0,NTN24
+https://f.gmsiptv.com/memfs/09e906a0-7366-410e-8bfc-281802a7bd1a.m3u8
+#EXTINF:0,Euronews ES
+https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,Estrella News
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:0,DW ES
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,France24 ES 
+https://glb.bozztv.com/glb/ssh101/0285/index.m3u8
+#EXTINF:0,RT ES
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:0,HispanTV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:0,TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:0,Caracol
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:0,Estrella
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:0,CNNE 
+https://f.gmsiptv.com/memfs/33a3dade-2cb0-4e07-8499-2a09a50cae1d.m3u8
+#EXTINF:0,CU Prensa Latina
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:0,CU Cubavision
+https://fl1002.bozztv.com/ssh101/0298/index.m3u8
+#EXTINF:0,CU America Teve
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/tracks-v1a1/mono.m3u8
+#EXTINF:0,CU TV Marti
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:0,Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Televisa Europa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Corazon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:0,Amantes del romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+#EXTINF:0,Novelas Drama
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details
+#EXTINF:0,Telenovelas Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,T Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fed&deviceDNT=0&deviceModel=0
+#EXTINF:0,Novelissima 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:0,Vive Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:0,Inti
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:0,CGTN ES
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:0,A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF:119,Abu Dhabi Sports 1 (1080p)
+#EXTINF:0,Abu Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:0,Abu Dhabi Sports 2 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
@@ -204,7 +607,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:0,DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:0,http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:0,Dubai Racing 2 (1080p)
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:0,Dubai Racing 3 (1080p)
@@ -222,7 +624,7 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:0,Extreme Sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o4/extremesport/playlist.m3u8
-#EXTINF:0,like Gecko) Mobile/15E148" - Fast&Fun Box (480p) [Not 24/7]
+#EXTINF:0,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148" - Fast&Fun Box (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s79/index.m3u8
 #EXTINF:0,Fight
@@ -375,7 +777,6 @@ https://apollo.production-public.tubi.io/live/ac-racing-america.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:0,Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:0,Realitatea Sportivhttps://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 #EXTINF:0,Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0,RightNow TV (720p)
@@ -481,13 +882,6 @@ https://live.field59.com/wapa/ngrp:wapa3_all/.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
 #EXTINF:0,World Poker Tour Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:0,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0,https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:0,https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:0,http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:0,https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:0,https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
-#EXTINF:0,http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:0,Cali TV | CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Canal Institucional | CO
@@ -13684,3 +14078,2117 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0,Prometheus By PelixMax 1
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:0,Hola!Play
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Tastamade Travel
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0,Cocina Familiar
+https://cloud.streamingconnect.tv/hls/cocinafamiliar/cocinafamiliar.m3u8
+#EXTINF:0,Cocina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,FreeTV Saber M s
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:0,Xtrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/.m3u8
+#EXTINF:0,GarageTV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:0,HiperTV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/.m3u8
+#EXTINF:0,AR Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:0,Bethel
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+#EXTINF:0,CBN ES
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0,CDM
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w335764602.m3u8
+#EXTINF:0,EJTV
+https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
+#EXTINF:0,La Nueva
+https://5e85d90130e77.streamlock.net/6004/6004/playlist.m3u8
+#EXTINF:0,tvg-id="" - Contacto
+https://ythls.armelin.one/channel/UCD04yL7cANb5RW4LgsQjqOg.m3u8
+#EXTINF:0,VC Medios
+https://panel.tvstream.cl:1936/8024/8024/.m3u8
+#EXTINF:0,AV
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:0,V+
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:0,TBN ES
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:0,Solidaria 1
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:0,Solidaria 2
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:0,Kairos 
+https://5dbcd1053301e.streamlock.net:4443/telefe/telefe/.m3u8
+#EXTINF:0,igozo
+https://5dbcd1053301e.streamlock.net:4443/telefe/telefe/.m3u8
+#EXTINF:0,Uncion24
+https://59a564764e2b6.streamlock.net/uncion24/Uncion24/playlist.m3u8
+#EXTINF:0,Faro
+https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
+#EXTINF:0,Rhema 
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:0,Vida Nueva 2
+https://ss9.domint.net:3004/vntv_str/vidanuevatv/playlist.m3u8
+#EXTINF:0,Nubeth
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:0,Maratel
+https://5bf8041cb3fed.streamlock.net/ManantialdeAdoracionTV/ManantialdeAdoracionTV/playlist.m3u8
+#EXTINF:0,Xtrema 
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
+#EXTINF:0,COES 
+https://5dbcd1053301e.streamlock.net:4443/blessingstv/blessingstv/.m3u8
+#EXTINF:0,Cristiana
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:0,Shalom Media
+https://627bb251f23c7.streamlock.net:444/ShalomTV/ShalomTV/playlist.m3u8
+#EXTINF:0,Restaurando Vida
+https://v4.tustreaming.cl/restaurandovida/index.m3u8
+#EXTINF:0,Alcance
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:0,RVC
+https://shared-trial-us-west-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:livervc-gbd875_main_all_transcode/.m3u8
+#EXTINF:0,Frecuencia 
+https://tv.frecuenciaf.com/live/envivo.m3u8
+#EXTINF:0,La Fe Mueve Monta as
+https://inliveserver.com:1936/10020/10020/playlist.m3u8
+#EXTINF:0,Viviente
+https://host.streamingnation.live/p/3968/live/elvivientetvlive.m3u8
+#EXTINF:0,Aleluya
+https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
+#EXTINF:0,Vida
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:0,tvcret
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:0,CR Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
+#EXTINF:0,JRESTV
+https://teleredmcp.com/jrestv/jrestv/.m3u8
+#EXTINF:0,RVidaTV
+https://ss2.domint.net:3206/rv_str/rvida/manifest.m3u8
+#EXTINF:0,Adoram
+https://ssh101.bozztv.com/ssh101/adoram/playlist.m3u8
+#EXTINF:0,TeleBendicion
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:0,Televida Media Network
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
+#EXTINF:0,EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:0,KICCTV
+https://live.mdc.akamaized.net/hls/livestream/kicctv/playlist.m3u8
+#EXTINF:0,DunamisTV
+https://atechgroupuk.site/DTV.m3u8
+#EXTINF:0,Ligonier
+https://f.gmsiptv.com/memfs/854d4ca0-363e-41e3-86cb-990de33954cb.m3u8
+#EXTINF:0,His Channel
+https://www1.hischannel.com/liveedge/smil:hls.smil/playlist.m3u8
+#EXTINF:0,LightSourceTV
+https://lstv.swncdn.com/live/master.m3u8
+#EXTINF:0,Good News 
+https://live.wmncdn.net/goodnews/live.stream/index.m3u8
+#EXTINF:0,NRB Network
+https://uni10rtmp.tulix.tv/nrbtvlive/nrbtvlive.stream/playlist.m3u8
+#EXTINF:0,LIFE
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:0,ABN Africa
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:0,ABN Urdu
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:0,ABN Afganistan
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+#EXTINF:0,Bible Discovery
+https://2-fss-2.streamhoster.com/pl_138/amlst:200226-1452410/playlist.m3u8
+#EXTINF:0,GSN
+https://ythls.armelin.one/channel/UCNZS3IEQaAfwofwltbEBwuw.m3u8
+#EXTINF:0,WATC-57.1 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:0,WATC-57.2
+https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
+#EXTINF:0,ABN Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:0,Abn Channel
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:0,First Light
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:0,Caribbean Gospel TV
+https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/.m3u8
+#EXTINF:0,The Way TV / ATV
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:0,CBN 
+https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
+#EXTINF:0,RevelationTV
+https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/playlist.m3u8
+#EXTINF:0,Watchmen
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1233458/playlist.m3u8
+#EXTINF:0,Cornerstone
+https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
+#EXTINF:0,JebamTV
+https://server.iptelevision.in/hls/jebamtv.m3u8
+#EXTINF:0,TV7 Finlandia 1
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:0,TV7 Finlandia 2
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:0,Taevas TV7
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:0,Himlen TV7
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:0,DieuTV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:0,Bible TV
+https://account33.livebox.co.in/bibletvhls/live.m3u8
+#EXTINF:0,Harvest TV
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/mono.m3u8
+#EXTINF:0,TBN US
+https://tbn-jw.cdn.vustreams.com/live/tbn-ssai/live.isml/.m3u8
+#EXTINF:0,TBN UK 
+https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
+#EXTINF:0,TBN Inspire
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
+#EXTINF:0,Shalom World
+https://api.new.livestream.com/accounts/25038049/events/7358643/live.m3u8
+#EXTINF:0,Harvest TV (USA)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/mono.m3u8
+#EXTINF:0,Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Middle East
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV North America & CANADA
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Talmaza (Discipleship)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:0,SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:0,Alhorreya TV
+https://597f64b67707a.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:0,LifeTV Europe
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:0,LifeTV Estonia
+https://lifetv.bitflip.ee/live/stream2.m3u8
+#EXTINF:0,TBN Pacific
+https://broadcast.tbnpacific.org.au:4430/TBNPacificTV/live/playlist.m3u8
+#EXTINF:0,TBN Inspire
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
+#EXTINF:0,TBN East
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
+#EXTINF:0,TBN Africa
+https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
+#EXTINF:0,TBN Nejat
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:0,redegospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0,Sat Paris
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8
+#EXTINF:0,Sat Turk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:0,Sat Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:0,The World Network
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:0,Loveworld
+https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:0,SBN EN
+https://ythls.armelin.one/channel/UCf1y3FvYJYPbgMqHX7ZzeZA.m3u8
+#EXTINF:0,Daystar 
+https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
+#EXTINF:0,GoodLife45
+https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0,InspirationTV
+https://1c2697cd93f56fa.akamaized.net/hls/live/2099633/insp_1/playlist.m3u8
+#EXTINF:0,Dare to Dream Network
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
+#EXTINF:0,GLC
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:0,LifeStyle
+https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/.m3u8
+#EXTINF:0,True Word Network
+https://glorystartv.live/TrueWordNetwork/index.m3u8
+#EXTINF:0,Christian Live
+https://voozmedia.fun/stream/christlive/playlist.m3u8
+#EXTINF:0,VTV Cristiano
+https://api.new.livestream.com/accounts/15669040/events/4554297/live.m3u8
+#EXTINF:0,GCN America
+http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+#EXTINF:0,PFFC
+https://2-fss-1.themediacdn.com/pl_122/206280-3060352-1/playlist.m3u8
+#EXTINF:0,cycnow
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:0,Podium Rotterdam
+http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8
+#EXTINF:0,Miracle TV
+https://webstreaming.viewmedia.tv/web_030/Stream/playlist.m3u8
+#EXTINF:0,CBN RADIO Praise
+https://bcovlive-a.akamaihd.net/r06d4bc2c9cc0474cb294bad887ddc648/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0,CBN RADIO Selah
+https://bcovlive-a.akamaihd.net/ra21608ccdd1546d19c3d9ce03a2d5457/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0,CBN RADIO SuperBook
+https://bcovlive-a.akamaihd.net/rfd16f66aae1a4e7fb02c8e16dca9285f/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0,CBN RADIO Christmas 
+https://bcovlive-a.akamaihd.net/r63a02ccfc89043a2825801ce7c116146/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0,CBN RADIO Cross Country Christmas
+https://bcovlive-a.akamaihd.net/r1d7f7edb3ebc4c30a65eff6c96c96f2f/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0,BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:0,Euronews EN
+https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0,TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:0,WION 
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+#EXTINF:0,GBN
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:0,CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0,CNN 
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,CNN Brasil
+https://f.gmsiptv.com/memfs/32378ade-2528-43c7-80cc-265e4ba13332.m3u8
+#EXTINF:0,Reuters
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+#EXTINF:0,CBS News 1
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
+#EXTINF:0,CBS News 2
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8
+#EXTINF:0,TeleSUR EN
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,Fox News
+https://f.gmsiptv.com/memfs/fea6e0d8-1e4e-4ad2-9d81-6a383a74d38e.m3u8
+#EXTINF:0,Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0,US Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:0,News12 NY
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:0,OAN
+https://cdn.klowdtv.net/803B48A/oan_aws/OAN.m3u8
+#EXTINF:0,OAN encore
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:0,InfoWars
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:0,The First
+https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8
+#EXTINF:0,Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0,AfricaNews EN
+https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,VOA EN
+https://www.youtube.com/@vozdeamerica/live
+#EXTINF:0,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0,FR AfricaNews FR
+https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,DW News 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,Reuters
+https://f.gmsiptv.com/memfs/fae6813d-c73f-49b9-a291-ca15bb325f5c.m3u8
+#EXTINF:0,NBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:0,NTD
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:0,ABC Local 10 News Florida
+https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
+#EXTINF:0,KUSA-DT1
+https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+#EXTINF:0,WLEX-DT1
+https://lnc-wlex.tubi.video/playlist.m3u8
+#EXTINF:0,WMGT
+https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
+#EXTINF:0,WMTV-DT1
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:0,WPTV-DT1
+https://apollo.production-public.tubi.io/live/ac-wptv2.m3u8
+#EXTINF:0,US WPXI-DT1
+https://apollo.production-public.tubi.io/live/ac-wpxi2.m3u8
+#EXTINF:0,DW DEUTSCH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?ern=0
+#EXTINF:0,Kan11 (Israel)
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:0,Makan33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:0,i24News (Israel) 1
+https://d3kl0e87lk5c6c.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/baeacf0d-fca2-4578-bc6b-083e78622b19.m3u8?adMethod=3&sessionId=i24Plex&ads.plex_token=pEia3KUB3Exx3k_ToqgE&ads.channel_id=61e9af453508a50f84213dd6&ads.did=bb0f11be-6a65-512e-9efe-571365ce114c&ads.dnt=0&ads.app_bundle=com.plexapp.ctv&ads.app_name=plex&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.app_domain=app.plex.tv&ads.channel_name=i24News&ads.gdpr=0&ads.us_privacy=1---&ads.consent=0
+#EXTINF:0,i24News (Israel) 2
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:0,i24News French
+https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:0,Global News CANADA
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:0,CBSN MIAMI
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:0,CBS Baltimore
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
+#EXTINF:0,CBSN Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:0,CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:0,CBSN Philladelphia
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:0,CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4128/CBS.PITTS.OTT
+#EXTINF:0,CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4128/CBS.CHI.OTT
+#EXTINF:0,CCBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:0,CBSN Dallas-Ft.W.
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?iu=/4128/CBS.DALLAS.OTT
+#EXTINF:0,CBSN Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4128/CBS.DENVER.OTT
+#EXTINF:0,CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:0,CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:0,CBSN Live Coverage
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:0,TVGE
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:0,519 DISPONIBLE
+https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
+#EXTINF:0,Kolo 8
+https://dai2-playlistserver.aws.syncbak.com/playlist/898825/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjczNzUsImlzcyI6IldMUyIsIm1kNSI6IjY1MjJmNGY0Nzk0YTkwNjBlOGRhNGIzZGYxOWU0NTJlIiwibWlkIjoiODk4ODI1In0.Ryr66JNAt-Tgtyti8iyVgczOialVEnptXCHmJ8m_C84
+#EXTINF:0,FSTV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:0,Arirang (KR)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,Sharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:0,CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0,CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0,RT EN
+http://69.64.57.208:8080/russiatoday/index.m3u8
+#EXTINF:0,RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:0,RT Deutsch
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:0,RT France
+http://69.64.57.208:8081/rtfrance/index.m3u8
+#EXTINF:0,RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:0,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0,Aljazeera News
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,Aljazeera Arabe
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0,Aljazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:0,Aljazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0,TYT
+https://tyt-roku-us.amagi.tv/master.m3u8
+#EXTINF:0,0537 DISPONIBLE
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:0,Israel Pars TV
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:0,DISPONIBLE
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:0,24tv.ua Ukraine
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:0,M2
+https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:0,MTM
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:0,http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:0,GNT TV (India)
+https://feeds.intoday.in/gnt/api/master.m3u8
+#EXTINF:0,Africa24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:0,Scripps News 
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:0,The Weather Channel ES
+https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+#EXTINF:0,Weather Nation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:0,Euronews Hungarian
+https://ythls.armelin.one/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
+#EXTINF:0,Euronews Greek
+https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
+#EXTINF:0,Channels Television
+https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
+#EXTINF:0,CNN News 18
+https://ythls.armelin.one/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
+#EXTINF:0,France24 EN
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:0,France24 FR
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:0,France24 Arabic
+https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+#EXTINF:0,United Nations 
+https://ythls.armelin.one/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
+#EXTINF:0,557 DISPONIBLE
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+#EXTINF:0,Times Now
+https://ythls.armelin.one/channel/UC6RJ7-PaXg6TIH2BzZfTV7w.m3u8
+#EXTINF:0,ZooMoo EN
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:0,USMP TV
+https://1.gmsiptv.com/memfs/8cfea52c-b10c-454c-ac23-3c79752b388d_output_0.m3u8
+#EXTINF:0,PBS Kids 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:0,Knowledge Kids
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:0,English Club TV
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:0,STVE
+https://f.gmsiptv.com/memfs/56b6999a-5528-474f-9bc2-00640f4a9e85.m3u8
+#EXTINF:0,Minerd 1
+http://51.81.106.147:8084/hls/minerd01.m3u8
+#EXTINF:0,Minerd 2
+http://51.81.106.147:8084/hls/minerd02.m3u8
+#EXTINF:0,Minerd 3
+http://51.81.106.147:8084/hls/minerd03.m3u8
+#EXTINF:0,Minerd 4
+http://51.81.106.147:8084/hls/minerd04.m3u8
+#EXTINF:0,Minerd 5
+http://51.81.106.147:8084/hls/minerd05.m3u8
+#EXTINF:0,Minerd 6
+http://51.81.106.147:8084/hls/minerd06.m3u8
+#EXTINF:0,Minerd 7
+http://51.81.106.147:8084/hls/minerd07.m3u8
+#EXTINF:0,Minerd 8
+http://51.81.106.147:8084/hls/minerd09.m3u8
+#EXTINF:0,Alabanza y Palabra Kids
+https://5bf8041cb3fed.streamlock.net/alabanzaypalabrakids/alabanzaypalabrakids/playlist.m3u8
+#EXTINF:0,Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:0,Presencia Kids
+https://ssh101-fl.bozztv.com/ssh101/kidsenvivo/playlist.m3u8
+#EXTINF:0,Soldaditos de Jes s
+https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8
+#EXTINF:0,Duck TV
+https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
+#EXTINF:0,Sensical Kids
+https://sensical2up-oando.amagi.tv/playlist.m3u8
+#EXTINF:0,PequeradioTV ES
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0,DreikoTV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:0,Extrema Kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:0,Retro Cartoon BR
+https://stmv1.srvif.com/retrotv/retrotv/.m3u8
+#EXTINF:0,Mr. Bean
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:0,Rakuten Family
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,TG ES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+#EXTINF:0,IPe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:0,Bob Esponja
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:0,Caillou
+https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Smile
+https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/942a7b5b-525c-4701-9487-eaa1c88471ab.m3u8
+#EXTINF:0,Sensical
+https://sensical2up-oando.amagi.tv/playlist.m3u8
+#EXTINF:0,After School Cartoons
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:0,TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Babyfirst
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e0815cf-48c6-11eb-ae86-0242ac110002&sid=1e0815cf-48c6-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e0815cf-48c6-11eb-ae86-0242ac110002&sid=1e0815cf-48c6-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e0815cf-48c6-11eb-ae86-0242ac110002&sid=1e0815cf-48c6-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,Las Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e0815cf-48c6-11eb-ae86-0242ac110002&sid=1e0815cf-48c6-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,Barney
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e0815cf-48c6-11eb-ae86-0242ac110002&sid=1e0815cf-48c6-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,Babar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e80168b-48d0-11eb-ae86-0242ac110002&sid=1e80168b-48d0-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,El reino infantil
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e80168b-48d0-11eb-ae86-0242ac110002&sid=1e80168b-48d0-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,Rugrats Crecidos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=true&sessionID=1e80168b-48d0-11eb-ae86-0242ac110002&sid=1e80168b-48d0-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,Nick Clasico Bala
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=d272e905-9efa-4a57-be56-c3750e841733&clientModelNumber=na&deviceDNT=false&deviceId=d272e905-9efa-4a57-be56-c3750e841733&deviceLat=18.4667&deviceLon=-69.9000&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=84.0&marketingRegion=VE&serverSideAds=false&sessionID=1e0815cf-48c6-11eb-ae86-0242ac110002&sid=1e0815cf-48c6-11eb-ae86-0242ac110002&userId=web
+#EXTINF:0,Nick Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Moon Bug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0,Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:0,Family - Rakuten TV
+https://e7934a8802cc472f957e8cb4adb933e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenFamily/playlist.m3u8
+#EXTINF:0,LEGO 
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/.m3u8
+#EXTINF:0,Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:0,Brat TV
+https://brat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/master.m3u8
+#EXTINF:0,Cool School
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=CoolSchool&ads.csid=zeus_eu_coolschool_ssai&ads._fw_content_category=IAB6&ads._fw_content_genre=Family&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads.xumo_contentId=277&ads.xumo_contentName=CoolSchool&ads.xumo_providerId=277&ads.xumo_providerName=CoolSchool&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=172&ads.rakuten_streaming_id=f79fe404-e369-4768-97a0-89531669e264&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991707&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
+#EXTINF:0,Teletubbies
+https://f9720666997c4b9297eccb74053f4d54.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_Teletubbies/playlist.m3u8?ads.content_classification=0&ads.device_lmt=0&ads.device_type=web&ads.device_year=2019&ads.env=prod&ads.gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.rtv_content_id=3632&ads.rtvid=271858&ads.streaming_id=8e589d2d-cfef-4523-a1ea-e37f97bbd182&ads.user_type=visitor&ads.wurl_channel=667
+#EXTINF:0,Beano TV
+https://a5b4bacecd47433dad06d3189fc7422e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BeanoTV/playlist.m3u8
+#EXTINF:0,Kidoodle.TV
+https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0,FilmRise Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:0,FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:0,FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:0,Hallmark Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:0,Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:0,Redbox Movies
+https://spotlight-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0,Redbox Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:0,FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:0,Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:0,Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0,LoneStar |2
+https://lonestar-rakuten.amagi.tv/playlist.m3u8?l1br3
+#EXTINF:0,Classic Reels TV
+https://crt-ext.rodeotv.net/s/iUvKb6g3mbVgXDGy8a3tCQQSfjNXvNEL/m3u8/crt.m3u8
+#EXTINF:0,Movies of the Week
+https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
+#EXTINF:0,Local Now |CineLife
+https://cinelife-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fa2d8a5705e40fc453722_cinelife-live/playlist.m3u8
+#EXTINF:0,Local Now | Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:0,Classic Movies Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,FilmRise Free Movies
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_filmrisefreemovies_001.m3u8?ads.caid=FilmRiseFreeMovies&ads.csid=samsungtvplus_ca_filmrisefreemovies_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9991525&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0,FilmRise Action
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_filmriseaction_001.m3u8?ads.caid=FilmriseAction&ads.csid=samsungtvplus_ca_filmriseaction_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9991543&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0,FilmRise Western
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_filmrisewestern_001.m3u8?ads.caid=FilmriseWesterns&ads.csid=samsungtvplus_ca_filmrisewesterns_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9991541&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0,The Asylum
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_theasylum_001.m3u8?ads.caid=TheAsylum&ads.csid=samsungtvplus_ca_theasylum_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=275&ads.xumo_contentName=TheAsylum&ads.xumo_providerId=275&ads.xumo_providerName=TheAsylum&ads.xumo_channelId=9991532&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0,Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:0,24 hours free movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-EdgeVideo/145.m3u8
+#EXTINF:0,My Time Portugues
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:0,AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:0,AMC Stories
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:0,Film Stream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,WATC-57.3
+https://uni01rtmp.tulix.tv/theloop/theloop/playlist.m3u8
+#EXTINF:0,DE Action
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Comedy EN 
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Nos TV
+https://f.gmsiptv.com/memfs/93ac964c-ae63-4ed7-a42c-d49bf4aa52e7.m3u8
+#EXTINF:0,TV Direct
+https://edge1.tvdirect13.com/live/playlist.m3u8
+#EXTINF:0,CZ NOS Pais
+https://558bd16067b67.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:0,Telearuba
+https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
+#EXTINF:0,AR A24 
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:0,AR TN 
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:0,AR CN247
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:0,AR Net
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,AR TVP
+https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+#EXTINF:0,AR 13Max
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:0,AR Multivision
+rtmp://panel.host-live.com/8250/8250
+#EXTINF:0,AR 5TV
+rtmp://www.coninfo.net/tvcinco/live1
+#EXTINF:0,AR Ciudad TV
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:0,AR MedeaTV
+rtmp://video.misistemareseller.com/medeatv/medeatv
+#EXTINF:0,AR Diario10 Rio Negro
+https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
+#EXTINF:0,AR C9 Litoral
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
+#EXTINF:0,AR CanalU
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+#EXTINF:0,AR Litus TV Santa Fe
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0,AR Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:0,AR InminenteTV
+https://stmvideo2.livecastv.com/zonagospel/zonagospel/.m3u8
+#EXTINF:0,AR OasisTV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:0,AR TDC TV Santa Fe 
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:0,AR CPETV
+https://stream.arcast.live/cpe/cpe/.m3u8
+#EXTINF:0,AR Canal22
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/.m3u8
+#EXTINF:0,AR El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0,AR CESTV
+https://stmv5.voxtvhd.com.br/cestv/cestv/.m3u8
+#EXTINF:0,AR Vertv
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:0,AR Global TV
+https://stmv.video.gmpro.top/global/global/.m3u8
+#EXTINF:0,AR La Voz de Tucuman
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/.m3u8
+#EXTINF:0,AR Somos La Pampa
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/.m3u8
+#EXTINF:0,AR TV Mana
+https://w2.manasat.com/tvmana-ar/tvmana-ar/.m3u8
+#EXTINF:0,AR Valleviejo
+https://stmvideo1.livecastv.com/valleviejo/valleviejo/.m3u8
+#EXTINF:0,AR Quatro TV
+https://stream.arcast.live/quatro/quatro/.m3u8
+#EXTINF:0,AR Sublime Gracia TV
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/.m3u8
+#EXTINF:0,AR Radio TV Neuquen
+https://media.neuquen.gov.ar/rtn/television/.m3u8
+#EXTINF:0,AR Misiones Cuatro
+https://streamlov.alsolnet.com/misionescuatro/live/.m3u8
+#EXTINF:0,AR Telenord
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+#EXTINF:0,AR One Radio
+https://stmvideo2.livecastv.com/oneradio/oneradio/.m3u8
+#EXTINF:0,AR Viajar TV
+https://stmv5.livecastv.com/manualtman/manualtman/.m3u8
+#EXTINF:0,AR Canal 12 Web
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/.m3u8
+#EXTINF:0,AR ATV Argentina
+https://stream.arcast.com.ar/atbargentina/atbargentina/.m3u8
+#EXTINF:0,AR Azahares 
+https://streamyes.alsolnet.com/azaharesfm/live/.m3u8
+#EXTINF:0,AR Cable Imagen Armstrong
+https://stream.arcast.com.ar/casse/casse/.m3u8
+#EXTINF:0,AR Canal 10 Neuquen
+https://stmv1.srvstm.com/tv10/tv10/.m3u8
+#EXTINF:0,AR Canal 3 Formosa
+https://stmvideo2.livecastv.com/agenfor/agenfor/.m3u8
+#EXTINF:0,AR TPP
+https://stream.arcast.com.ar/c3lapampa/c3lapampa/.m3u8
+#EXTINF:0,AR Canal 3 Las Heras
+https://stream.arcast.com.ar/canal3/canal3/.m3u8
+#EXTINF:0,AR Canal 4 Balcarce
+https://stmvideo2.livecastv.com/canal4/canal4/.m3u8
+#EXTINF:0,AR Canal 5 Pico Truncado
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/.m3u8
+#EXTINF:0,AR RTN
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:0,AR Santa Fe Canal
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:0,AR Canal Provincial
+https://smcdn03.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+#EXTINF:0,AR Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:0,AR C6Digital
+https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+#EXTINF:0,AR TV Dos Salta
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:0,AR Cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0,AR Uni Teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:0,AR Cadena 3 Argentina
+https://ythls.armelin.one/channel/UCNxohbqfDp8YxW_Mji2XMHA.m3u8
+#EXTINF:0,AR C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0,AR America Tucuman
+https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:0,AR La Nacion
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0,AR Telefe
+https://ythls.armelin.one/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
+#EXTINF:0,AR Telefe Cordoba
+https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:0,AR Telefe Salta
+https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:0,AR Telefe Noticias
+https://ythls.armelin.one/channel/UChxGASjdNEYHhVKpl667Huw.m3u8
+#EXTINF:0,AR Canal 26 
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:0,AR Cronica
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:0,AR Canal 13 San Juan
+https://ythls.armelin.one/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+#EXTINF:0,AR UniTeve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:0,AR AlternaTV
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:0,AR Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:0,AR Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:0,AR Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:0,AR Canal 10 Nortevision
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+#EXTINF:0,AR Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6sd/playlist.m3u8
+#EXTINF:0,AR Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:0,AR Canal 9 Norte Misionero
+rtmp://panel.dattalive.com/8076/8076
+#EXTINF:0,AR Canal 8 San Juan
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+#EXTINF:0,AR Canal 10 Mar del Plata
+https://ythls.armelin.one/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
+#EXTINF:0,AR NeoTV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0,AR Neox TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:0,AR Canal 11 de la Costa
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:0,AR Panc TV 
+https://stream.trixserver.com:3088/live/uv096live.m3u8
+#EXTINF:0,AR Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:0,AR Canal de la Ciudad
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:0,AR Play Television 
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:0,DISPONIBLE
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+#EXTINF:0,AR Radio Mitre
+https://ythls.armelin.one/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
+#EXTINF:0,AR Telecinco 
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:0,Radiocanal
+http://204.199.3.2/.m3u8
+#EXTINF:0,AR TeleCinco Trelew
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:0,AR Aire de Santa Fe
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+#EXTINF:0,AR Canal 50 Morteros
+rtmp://online.coopmorteros.coop/canal50/vivo
+#EXTINF:0,PR XlevelTV
+https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
+#EXTINF:0,Bolivision
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,BO Bolivia 7.2 TV
+rtmp://video1.getstreamhosting.com/8224/8224
+#EXTINF:0,BO Red Advenir
+rtmp://streamer1.streamhost.org:1935/salive/GMIredadvenirm
+#EXTINF:0,BO ATB La Paz
+https://f.gmsiptv.com/memfs/c399c370-8d9c-4892-8ae2-78c389e31de6.m3u8
+#EXTINF:0,BO ATB Cochabamba
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ATB_Cochabamba.m3u8
+#EXTINF:0,CL CaracolaTV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:0,CL T13
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:0,CL VC Medios
+rtmp://panel.tvstream.cl/8024/8024
+#EXTINF:0,CL UMAG TV 2
+rtmp://tls-cl.cdnz.cl/umag2/live
+#EXTINF:0,CL Tevex
+rtmp://v4.tustreaming.cl/static/tevexinter
+#EXTINF:0,CL ClickTV
+rtmp://v2.tustreaming.cl/static/clicktv
+#EXTINF:0,CL Quilp 
+https://stream.oursnetworktv.com/latin/quilpueonl/.m3u8
+#EXTINF:0,CL 24horas
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+#EXTINF:0,CL Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:0,CL UesTV
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:0,CL VTV Aconcagua
+https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:0,CL AntofagastaTV
+https://unlimited1-us.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:0,CL Radio Agricultura
+http://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
+#EXTINF:0,CL Campus
+https://unlimited1-us.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:0,CL quilpueonlinetv
+https://ssh101.bozztv.com/ssh101/quilpueonlinetv/playlist.m3u8
+#EXTINF:0,CL ChilenaTV
+https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:0,CL CampusTV
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:0,CO Caracol
+http://186.167.80.82:8126/play/a0dk/index.m3u8
+#EXTINF:0,CO Caracol
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:0,CO Cablenoticias
+https://f.gmsiptv.com/memfs/122a84df-7a71-49f3-921d-44e03e9445e5.m3u8
+#EXTINF:0,CO Telemedellin 
+https://glb.bozztv.com/glb/ssh101/telemed/index.m3u8
+#EXTINF:0,CO Telemedellin Radio
+https://ssh101.bozztv.com/ssh101/telemed2/playlist.m3u8
+#EXTINF:0,CO Canal CNC Medellin
+https://f.gmsiptv.com/memfs/33001691-77e0-4bd7-a44c-63a5238e86de.m3u8
+#EXTINF:0,CO Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:0,CO TV Pe ol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:0,CO CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:0,CO CNC Cores Comunicaciones
+https://f.gmsiptv.com/memfs/5492e18d-0fa2-4c56-8440-da214696e461.m3u8
+#EXTINF:0,CO ATN
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:0,CO CaliTV 1
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
+#EXTINF:0,CO TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:0,CO 90 minutos Digital
+https://cdns.livewave.co:8081/90minutoslive/index.m3u8
+#EXTINF:0,Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:0,CO Se al Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0,CO Canal Capital
+https://cdns.livewave.co:8081/eventos2/index.m3u8
+#EXTINF:0,CO Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:0,CO Telepac fico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:0,CO Teledorado MASTV
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:0,CO Vision Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0,CO RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,CO Canal RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0,CO Veo TV
+https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8
+#EXTINF:0,CO Eureka
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:0,CO TV Costa
+https://f.gmsiptv.com/memfs/89de7961-5c5e-4b38-aa46-bb01b11cb63c.m3u8
+#EXTINF:0,Telecaribe
+https://f.gmsiptv.com/memfs/e60ff908-6bcb-4520-b31e-15ac2beaff3e.m3u8
+#EXTINF:0,CR Teleuno 
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/.m3u8
+#EXTINF:0,CR 13
+https://f.gmsiptv.com/memfs/7b10ee60-c66b-427f-98ac-957f48f7a795.m3u8
+#EXTINF:0,CR Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
+#EXTINF:0,CR Canal1
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/.m3u8
+#EXTINF:0,CR Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:0,CR TV Sur
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:0,CR 88 Stereo
+http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8
+#EXTINF:0,CR CBTV
+https://cloudvideo.servers10.com:8081/8030/playlist.m3u8
+#EXTINF:0,CR Turrialba Digital
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:0,CR Nicoya TV
+https://k4.usastreams.com/nicoyatv/nicoyatv/.m3u8
+#EXTINF:0,CR TV Nosara
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/.m3u8
+#EXTINF:0,CR KMK TV
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:0,CR Cartago Medios TV
+https://acceso.radiosportstv.online:3162/stream/play.m3u8
+#EXTINF:0,CR Multimedios
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,CR TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:0,CR LSTV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:0,CR STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:0,CR Telesistema
+https://k20.usastreams.com:8081/telesistema/index.m3u8
+#EXTINF:0,CR TV8
+https://glb.bozztv.com/glb/ssh101/tv8cr/index.m3u8
+#EXTINF:0,EC Canal Uno
+https://video.ejeserver.com/live/canaluno.m3u8
+#EXTINF:0,EC PuruwaTV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:0,EC wuan plus
+https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
+#EXTINF:0,EC Majestad TV
+https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+#EXTINF:0,EC Ecuador TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:0,EC Asomavision
+https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:0,EC rtu
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+#EXTINF:0,EC EcuadorTV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+#EXTINF:0,EC Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:0,EC Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:0,EC Oromar TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:0,EC LatacungaTV
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+#EXTINF:0,EC IeanJesus Ecuador
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+#EXTINF:0,EC America Estereo Guayaquil
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:0,EC America Estereo Ibarra
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:0,EC Nortvision
+https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
+#EXTINF:0,EC America Estereo Quito
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:0,EC EducaTV
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:0,EC FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:0,SV TVX
+https://f.gmsiptv.com/memfs/66f3edb6-d8a7-40cf-a343-7c8cca6a07a3.m3u8
+#EXTINF:0,SV El Camino TV
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/.m3u8
+#EXTINF:0,SV TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:0,SV Canal 2
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/Playlist.m3u8
+#EXTINF:0,SV Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:0,SV Canal 6
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
+#EXTINF:0,SV TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
+#EXTINF:0,SV Canal 25
+https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
+#EXTINF:0,SV Canal 12
+https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
+#EXTINF:0,SV Orbita SV
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+#EXTINF:0,SV Megavision 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+#EXTINF:0,SV Megavision 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+#EXTINF:0,SV Taber
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/.m3u8
+#EXTINF:0,SV TVCa
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:0,SV TVL
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:0,SV TVM
+https://f.gmsiptv.com/memfs/e3da1238-dc0e-4eba-b585-3a238b87b0be.m3u8
+#EXTINF:0,SV TV Getsemani
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:0,SV RTV 57
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+#EXTINF:0,SV RTV Cat lica
+https://streaming.grupocsanetwork.com:19360/canal40/canal40.m3u8
+#EXTINF:0,SV Arbol de vida TV
+https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
+#EXTINF:0,SV TUTV
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+#EXTINF:0,SV Elohim
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
+#EXTINF:0,SV TRV
+https://stream.oursnetworktv.com/latin/encoder44/.m3u8
+#EXTINF:0,SV Elim TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
+#EXTINF:0,SV Josue TV
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:0,GT TV Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:0,GT Guate Vision
+http://190.97.183.98:8000/play/a0oa
+#EXTINF:0,GT Canal 3
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,GT GuaTV
+https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
+#EXTINF:0,GT Televisiete
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,GT Canal27
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+#EXTINF:0,GT Nuevo Mundo
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+#EXTINF:0,GT TN23 
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,GT BD Television
+https://stream.oursnetworktv.com/latin/telegtmb/.m3u8
+#EXTINF:0,GT Plenitud TV
+https://stream.oursnetworktv.com/latin/PlenitudGtm/.m3u8
+#EXTINF:0,GT rema Presencia
+https://stream.oursnetworktv.com/latin/remaPresencia/.m3u8
+#EXTINF:0,GT Telecosta Esquintla
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:0,GT Canal Antigua
+http://190.97.183.98:8000/play/a0af
+#EXTINF:0,GT Presencia TV
+https://glb.bozztv.com/glb/ssh101/mitvenvivo/index.m3u8
+#EXTINF:0,GT Visi n Tv HD 
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:0,GT TVS Retro 
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0,GT Totovisi n
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:0,GT Tele Globo
+https://ssh101.bozztv.com/ssh101/tvgolguatemala/chunks.m3u8
+#EXTINF:0,GT Tv Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:0,GT Jes s TV
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+#EXTINF:0,GT Mi Canal 1
+http://ms.android-iptv.com:80/V7rA1feOk3/FkGkEh8Spe/20058
+#EXTINF:0,GT Mi Canal 2
+http://ms.android-iptv.com/V7rA1feOk3/FkGkEh8Spe/6671
+#EXTINF:0,GT BarbeTV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:0,GT Aurora Media Films 
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:0,GT Canal 8 
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:0,GT Canal 100 tv Chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:0,GT Full Channel
+https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
+#EXTINF:0,GT Nim TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:0,GT Peniel Familia 
+https://s.emisoras.tv:8081/penielfamiliar/index.m3u8
+#EXTINF:0,GT Canal 30 Bethel TV
+rtmp://s.emisoras.tv/static/canal30tvbethel
+#EXTINF:0,GT Peniel K&Y
+rtmp://s.emisoras.tv/static/penielkids
+#EXTINF:0,GT Peniel M sica
+rtmp://s.emisoras.tv/static/penielmusical
+#EXTINF:0,GT Esquipulas TV
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+#EXTINF:0,GT Telemaya
+https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
+#EXTINF:0,HT Haiti News Channel
+https://haititivi.com/website/haitinews/index.m3u8
+#EXTINF:0,HT Radio-Tele 4VEH
+rtmp://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv
+#EXTINF:0,HT Tele Pacific
+https://live-hls-xpil.livepush.io/live_cdn/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8
+#EXTINF:0,HN TNH
+https://f.gmsiptv.com/memfs/3076689d-da07-4cdf-bbc3-e4827fa1b0a6.m3u8
+#EXTINF:0,HN VTV
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,HN Dios Te Ve
+rtmp://s.emisoras.tv/static/diostevetv
+#EXTINF:0,HN Dios Te Ve Kids
+rtmp://s.emisoras.tv/static/diostevekids
+#EXTINF:0,HN TSI
+http://45.166.92.22:58001/play/a020/index.m3u8
+#EXTINF:0,HN TelePa s
+https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
+#EXTINF:0,HN HCH
+https://glb.bozztv.com/glb/ssh101/hchtvenvivo/index.m3u8
+#EXTINF:0,HN TEN
+https://f.gmsiptv.com/memfs/fb7731a1-decd-43ee-b2b9-03d3d1acbaee.m3u8
+#EXTINF:0,HN Q hubo HN
+rtmp://5e85d90130e77.streamlock.net/6024/6024
+#EXTINF:0,HN MetroTV
+rtmp://s.emisoras.tv/static/metrotv
+#EXTINF:0,HN LTV
+rtmp://5e85d90130e77.streamlock.net/6022/6022
+#EXTINF:0,HN Choluteca TV
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:0,HN GirasolTV
+https://video.misistemareseller.com:1936/Girasoltv/Girasoltv/playlist.m3u8
+#EXTINF:0,HN MNTV
+rtmp://www.amixtv.com/static/mntvh
+#EXTINF:0,HN EDN
+rtmp://60417ddeaf0d9.streamlock.net/edntv/videoedntv
+#EXTINF:0,HN Telavision
+https://stream.oursnetworktv.com/latin/telaVision/.m3u8
+#EXTINF:0,HN JBN
+rtmp://mediacp.us/static/jbntv
+#EXTINF:0,HN CTV
+rtmp://mediacp.us/static/ctvhn
+#EXTINF:0,HN Ebebezer
+rtmp://5e85d90130e77.streamlock.net/6010/6010
+#EXTINF:0,HN TV Metropolis 19.1
+rtmp://5e85d90130e77.streamlock.net/6028/6028
+#EXTINF:0,HN Une TV
+https://amixtv.live:3395/live/unetvlive.m3u8
+#EXTINF:0,HN CampusTV
+rtmp://5e85d90130e77.streamlock.net/6052/6052
+#EXTINF:0,HN Radio Ideal
+https://www.idealfm104-7.com/hls/stream.m3u8
+#EXTINF:0,HN ActivaTV
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+#EXTINF:0,HM AZA TV
+https://stmv1.zcasthn.com.br/azatvhd/azatvhd/playlist.m3u8
+#EXTINF:0,HN Ebenezer
+https://cdn.playcloud.us/cci/srtin3.stream/playlist.m3u8
+#EXTINF:0,HN Jehova TV
+rtmp://video.misistemareseller.com/jehovatelevision/jehovatelevision
+#EXTINF:0,HN 5 El Lider
+http://190.97.183.98:8000/play/a0al
+#EXTINF:0,HN Television Comayagua Canal 40
+rtmp://mediacp.us/static/8034
+#EXTINF:0,HN Venus TV
+https://f.gmsiptv.com/memfs/3714a5b6-7079-443b-b47a-308edc3609e6.m3u8
+#EXTINF:0,HN LencaTV
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:0,HN CN51
+https://tvcn51.com/hls/cn51480.m3u8
+#EXTINF:0,HN CampamentoTV
+https://videolatam.com:3075/live/bbifhznulive.m3u8
+#EXTINF:0,HN RTV
+https://f.gmsiptv.com/memfs/5da65e39-a570-404f-9653-38ebd22bdde8.m3u8
+#EXTINF:0,Canal 4 NI
+https://f.gmsiptv.com/memfs/37ac426b-cf72-4128-915d-cc23e1bf8d11.m3u8
+#EXTINF:0,NI Canal 6
+https://f.gmsiptv.com/memfs/7c27141d-9cd7-4369-84ed-a5bce5be3d87.m3u8
+#EXTINF:0,NI Canal 20 WTV
+rtmp://cloudvideo.servers10.com/static/8130
+#EXTINF:0,NI 3ABN
+https://f.gmsiptv.com/memfs/d504da3a-6027-4650-ac02-006ae712bb3f.m3u8
+#EXTINF:0,NI Viva Nicaragua
+https://f.gmsiptv.com/memfs/c61be760-e819-4365-9260-8b0349e231c2.m3u8
+#EXTINF:0,MX El Financiero
+https://f.gmsiptv.com/memfs/4f6238a4-be8e-41e0-9476-d54c4ee8344c.m3u8
+#EXTINF:0,MX ImagenTV
+https://f.gmsiptv.com/memfs/81209378-c863-4ab9-9cae-ab960718a055.m3u8
+#EXTINF:0,MX Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0,MX Catorce TV
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:0,MX Teleformula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:0,MX Meganoticias MX
+https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0,MX RTG
+https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/.m3u8
+#EXTINF:0,MX XHPBZC Gobierno de Puebla
+rtmp://189.240.210.28/live/setpuebla
+#EXTINF:0,MX TVT Tabasco
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/.m3u8
+#EXTINF:0,MX Espacio Universitario
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef8c36ea6_all/playlist.m3u8
+#EXTINF:0,MX Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w206742322.m3u8
+#EXTINF:0,MX AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/.m3u8
+#EXTINF:0,MX Canal 10 Chetumal
+rtmp://stream2.dynalias.com/live/tvlive1
+#EXTINF:0,MX RCG
+rtmp://video1.getstreamhosting.com/8172/8172
+#EXTINF:0,MX RTQ
+rtmp://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive
+#EXTINF:0,MX Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:0,MX NRT 4 Saltillo
+rtmp://59e88b197fb16.streamlock.net/live/canal4
+#EXTINF:0,MX NRT 6 Region Sureste
+rtmp://59e88b197fb16.streamlock.net/live/canal6
+#EXTINF:0,MX B15 Zacatecas
+rtmp://60ed5b6d0df78.streamlock.net/envio2/envio2
+#EXTINF:0,MX Canal 28
+rtmp://60ed5b6d0df78.streamlock.net/canal28/canal28
+#EXTINF:0,MX TV LOBO
+rtmp://streamingcws20.com/lobodurango/videolobodurango
+#EXTINF:0,MX UMTV
+rtmp://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos
+#EXTINF:0,MX TV Guanajuato
+https://stream.oursnetworktv.com/latin/tvguanajuato/.m3u8
+#EXTINF:0,MX VB Media TV
+rtmp://capomo01-enitv.eninetworks.com/static/locales_vbmedia_publico
+#EXTINF:0,MX Canal Info TV 9
+https://stream.oursnetworktv.com/latin/encoder25/.m3u8
+#EXTINF:0,MX La Luperrona Colima
+rtmp://capomo01-enitv.eninetworks.com/static/locales_vbmedia_publico
+#EXTINF:0,MX TV Independencia
+https://stream.oursnetworktv.com/latin/tvindependencia/.m3u8
+#EXTINF:0,MX Veracruz Multimedios
+https://stream.oursnetworktv.com/latin/VeracruZMulTimedios/.m3u8
+#EXTINF:0,MX TV MAR La Paz
+rtmp://5fc584f3f19c9.streamlock.net/tvmarlapaz/videotvmarlapaz
+#EXTINF:0,MX TV MAR Los Cabos
+rtmp://5fc584f3f19c9.streamlock.net/tvmarloscabos/videotvmarloscabos
+#EXTINF:0,MX Canal 15 Durango
+https://stream.oursnetworktv.com/latin/encoder32/.m3u8
+#EXTINF:0,MX TV Libertad
+https://stream.oursnetworktv.com/latin/tvlibertad/.m3u8
+#EXTINF:0,MX 6 TV Jalisco
+https://stream.oursnetworktv.com/latin/encoder6/.m3u8
+#EXTINF:0,MX Canal 10 TV Encarnaci n de D az
+https://stream.oursnetworktv.com/latin/encoder87/.m3u8
+#EXTINF:0,MX Cuatro Televisi n
+https://stream.oursnetworktv.com/latin/encoder36b/.m3u8
+#EXTINF:0,MX Los Altos Televisi n
+https://stream.oursnetworktv.com/latin/encoder1/.m3u8
+#EXTINF:0,MX Ours Network TV
+https://stream.oursnetworktv.com/latin/oursnetworktv/.m3u8
+#EXTINF:0,MX QuieroTV
+https://stream.oursnetworktv.com/latin/encoder12/.m3u8
+#EXTINF:0,MX RED tv+streaming
+https://stream.oursnetworktv.com/latin/puntotvmx/.m3u8
+#EXTINF:0,MX SET 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/.m3u8
+#EXTINF:0,MX SET 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
+#EXTINF:0,MX Canal 44 
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/.m3u8
+#EXTINF:0,MX NRT 24 Internacional
+rtmp://59e88b197fb16.streamlock.net/live/canal24
+#EXTINF:0,MX XHPBZC
+http://189.240.210.28:1935/envivo/puecom/.m3u8
+#EXTINF:0,MX Info7
+https://live.info7.mx/info7/stream/_hi2/index.m3u8
+#EXTINF:0,MX Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0,MX Teleformula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:0,MX Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:0,MX Nmas
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:0,MX FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0,MX Canal Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:0,MX XHFN Azteca 7
+https://live.info7.mx/info7/stream.m3u8
+#EXTINF:0,MX ADN40 
+https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:0,MX Canal 6 Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,MX Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0,MX Canal 6 Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0,MX Canal 6 Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:0,MX Canal 6 Puebla
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:0,MX Canal 6 Bajio
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:0,MX Canal 6 Saltillo
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:0,MX Canal 6 Ciudad Juarez
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:0,MX MultimediosTV
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,MX Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,MX TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w264025831_b1428000_sleng.m3u8
+#EXTINF:0,MX TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/chunklist_w1446913631_b1428000_sleng.m3u8
+#EXTINF:0,MX TVP Culliacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0,MX 15tv
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:0,MX AlcarriaTV
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:0,MX Teleplay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:0,MX Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:0,MX Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+#EXTINF:0,MX Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:0,MX Canal 28 Nuevo Leon
+https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+#EXTINF:0,MX Televisa Tijuana
+https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+#EXTINF:0,MX Televisa Puebla
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+#EXTINF:0,MX Televisa Mexicali
+https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+#EXTINF:0,MX Televisa Guadalajara
+https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+#EXTINF:0,MX Televisa Veracruz
+https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:0,MX Televisa Ciudad Juarez
+https://ythls.armelin.one/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+#EXTINF:0,MX Televisa del Bajio
+https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+#EXTINF:0,MX Televisa Sonora
+https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
+#EXTINF:0,MX Te v  America
+https://cloud.fastchannel.es/mic/manifiest/hls/teveamerica/teveamerica.m3u8
+#EXTINF:0,MX Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:0,Djazz
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,MTV 2
+https://f.gmsiptv.com/memfs/639d7918-dccc-4393-8676-2faa899d360f.m3u8
+#EXTINF:0,ViveTV
+rtmp://192.144.113.132/live/ViveTV
+#EXTINF:0,VH1 EN 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,VH1 EN 2
+http://38.96.178.201/live/VH1HD/index.m3u8
+#EXTINF:0,ON TV Portugal
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+#EXTINF:0,MTV Music Made in Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,La Mega Mundial
+https://server40.servistreaming.com:3477/stream/play.m3u8
+#EXTINF:0,TeleMusica
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+#EXTINF:0,Vallenato Internacional
+rtmp://59a564764e2b6.streamlock.net/vallenato/Vallenato2
+#EXTINF:0,Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:0,VM Latino
+rtmp://59ef525c24caa.streamlock.net/vmtv/vmlatino
+#EXTINF:0,TLR
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:0,Mayimbe TV
+http://51.81.106.147:8084/hls/mayimbe.m3u8
+#EXTINF:0,Megabox
+https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:0,Retro Plus
+rtmp://video06.logicahost.com.br/retroplustv/retroplustv
+#EXTINF:0,RETRO TV
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+#EXTINF:0,Panavision
+rtmp://vcp.myplaytv.com/panavision/panavision
+#EXTINF:0,V Classic
+rtmp://5eaccbab48461.streamlock.net/8112/8112
+#EXTINF:0,Colosal
+rtmp://5d16127744872.streamlock.net/COLOSAL/COLOSAL
+#EXTINF:0,PORTAL FOXMIX
+rtmp://panel.tvstream.cl/8040/8040
+#EXTINF:0,Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:0,Vivaldi
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
+#EXTINF:0,Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Hits360
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+#EXTINF:0,Tarima
+https://admin:abielintegridad2@d3lbi7fg805maa.cloudfront.net/out/v1/0112dc0bb755419396ab8da0401b1a14/index.m3u8
+#EXTINF:0,TropicalTV
+https://ssh101-fl.bozztv.com/ssh101/estvco/playlist.m3u8
+#EXTINF:0,California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:0,Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0,Xite
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:0,Sheffield Live! 93.2 FM
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:0,V2BEAT
+https://admin:abielintegridad2@de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0,Krone Hit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+#EXTINF:0,Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:0,FreeTV Hits
+https://flash-plex.amagi.tv/flash/master.m3u8
+#EXTINF:0,Vclassic
+rtmp://5eaccbab48461.streamlock.net/8112/8112
+#EXTINF:0,Italianissimo
+rtmp://vcp.myplaytv.com/italianissimo/italianissimo
+#EXTINF:0,SabrosuraTV
+https://f.gmsiptv.com/memfs/05f1419c-cd8f-4c98-8917-1c506513a5e4.m3u8
+#EXTINF:0,Latin Zone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:0,DISPONIBLE
+https://ssh101-fl.bozztv.com/ssh101/musica/playlist.m3u8
+#EXTINF:0,m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:0,Power TV
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,Radio 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#EXTINF:0,Muzzik Electro
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:0,Muzzik Rock 
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0,Muzzik Cafe&Club 
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0,Muzzik TikTak
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0,Muzzik HipHop (RS)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:0,Muzzik MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0,Muzzik Rock&Roll (RS)
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0,Muzzik Worldwide (RS)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:0,Muzzik Jeka (RS)
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:0,Muzzik Sense(RS)
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:0,Muzzik Flashback
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0,Muzzik 
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0,Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=StingrayGreatestHits&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_providerId=1857&ads.xumo_providerName=StingrayGreatestHits&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1977&ads.rakuten_streaming_id=fa5c89d7-eecb-4920-baf7-60689ea34d02&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991738&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
+#EXTINF:0,Stingray Classc Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:0,Stingray Everything 80's
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Flashback 70's
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Greatest Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+#EXTINF:0,Stingray Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
+#EXTINF:0,Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Holidays Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Hot Country
+https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
+#EXTINF:0,Stingray Kareoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Naturescapte
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Hot Country
+https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:0,Remember the 80s
+https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
+#EXTINF:0,Rock Alternative 
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray SmoothJazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Today's K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,TMA Cara bes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:0,Fashion TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0,Fashion TV Midnight Secert
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:0,Activa TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:0,CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
+#EXTINF:0,Qwest TV Jazz and Beyond
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:0,Coffee Workspace
+https://ythls.armelin.one/channel/UCrovHQd_7-YhEZ83eiz8CLg.m3u8
+#EXTINF:0,Cafe Cozy Jazz
+https://ythls.armelin.one/channel/UCyUTC3jCAaLd639lo9n9Bqw.m3u8
+#EXTINF:0,Cafe Music BGM
+https://ythls.armelin.one/channel/UCJhjE7wbdYAae1G25m0tHAA.m3u8
+#EXTINF:0,Chill Caf  Music
+https://ythls.armelin.one/channel/UCYVuC_glCfB-jgc0w1O3EDQ.m3u8
+#EXTINF:0,Relaxing Jazz BGM
+https://ythls.armelin.one/channel/UCa5OF9Vmu7Bvtb8ZsVUU34w.m3u8
+#EXTINF:0,Relax Music
+https://ythls.armelin.one/channel/UC7bX_RrH3zbdp5V4j5umGgw.m3u8
+#EXTINF:0,Piano Jazz Music
+https://ythls.armelin.one/channel/UC99OG4_C8-5Y1P04pTA7uGQ.m3u8
+#EXTINF:0,Litle Love
+https://ythls.armelin.one/channel/UCk_gmZ_mD-zlacoAnNWO0SQ.m3u8
+#EXTINF:0,Viva Rusia
+https://ssh101-fl.bozztv.com/ssh101/vivarussia/playlist.m3u8
+#EXTINF:0,Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=StingrayHitList&ads.csid=zeus_eu_stingrayhitlist_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_providerId=1858&ads.xumo_providerName=StingrayHitlist&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1979&ads.rakuten_streaming_id=8ed4dd2d-db81-48a4-8734-e6f65210adc6&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991736&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
+#EXTINF:0,Stingray Hot Country
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=StingrayHotCountry&ads.csid=zeus_eu_stingrayhotcountry_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=1859&ads.xumo_contentName=StingrayHotCountry&ads.xumo_providerId=1859&ads.xumo_providerName=StingrayHotCountry&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1974&ads.rakuten_streaming_id=630436df-b61d-4b7b-ada4-99fe06b04e88&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991735&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
+#EXTINF:0,Stingray Karaoke
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=StingrayKaraoke&ads.csid=zeus_eu_stingraykaraoke_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=1824&ads.xumo_contentName=StingrayKaraoke&ads.xumo_providerId=1824&ads.xumo_providerName=StingrayKaraoke&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=352&ads.rakuten_streaming_id=a80626a0-d3c2-4928-a88f-c5ef8f7c73d9&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991718&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
+#EXTINF:0,Stingray: Soulstorm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:0,Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.caid=QelloConcerts&ads.csid=zeus_eu_qelloconcertsbystingray_ssai&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads.xumo_contentId=187&ads.xumo_contentName=QelloConcertsByStingray&ads.xumo_providerId=187&ads.xumo_providerName=QelloConcertsByStingray&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_deviceMake=web&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.appName=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=2019&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=344&ads.rakuten_streaming_id=f8f7d67b-d98d-4dd5-a642-aa11af46c3a6&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991716&ads.xumo_ifa=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.xumo_ifaType=ppid
+#EXTINF:0,Cadena Elite
+rtmp://cloudvideo.servers10.com/static/8004
+#EXTINF:0,Somos Topopoint
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:0,Salsa Gorda TV
+https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:0,ChamemeTV
+rtmp://srv2.zcast.com.br/chamame/chamame
+#EXTINF:0,Xtrema Music
+https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/.m3u8
+#EXTINF:0,Azahares Radiovisual Multimedia
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:0,AR Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:0,AR Global TV
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:0,AR Mas FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:0,AR MetropolitanaFM
+https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
+#EXTINF:0,AR Radio Realpolitik
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:0,103.3
+https://ss5.domint.net:3020/1001_str/1001tv/playlist.m3u8
+#EXTINF:0,Sonido Suave
+https://ssh101-fl.bozztv.com/ssh101/sonidosuave/playlist.m3u8
+#EXTINF:0,Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Vevo '70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Vevo '80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0,Vevo '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Country
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:0,Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Vevo Reggaeton & Trap
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Videolina
+rtmp://5bb65e9de3fdf.streamlock.net/live/Videolina
+#EXTINF:0,Radio Tropical
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:0,RheinMain TV
+https://58666775583d1.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/.m3u8
+#EXTINF:0,VivoTV UY
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:0,NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,PA A&R Canal
+http://51.222.9.192:3589/stream/play.m3u8
+#EXTINF:0,PA Fabulosa Estereo
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:0,PA BTV Panam 
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+#EXTINF:0,PA Fav TV
+https://video.misistemareseller.com:1936/minfavtv/minfavtv/playlist.m3u8
+#EXTINF:0,PA Nex
+https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+#EXTINF:0,PA DreikoTV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:0,PA Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
+#EXTINF:0,PA TVMAX
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:0,PA NTV
+rtmp://marine2.miplay.cl/static/ntv
+#EXTINF:0,PE Bethel
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+#EXTINF:0,PE Willax 
+https://f.gmsiptv.com/memfs/9f7d714c-5fb8-48d0-ac73-47f8d6a46ff5.m3u8
+#EXTINF:0,PE PanamericanaTV
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:0,PE Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0,PE tvpe 
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:0,PE tvpe Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:0,PE tvpe International
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:0,PE Via
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+#EXTINF:0,PE GeniosTV
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:0,PE Telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:0,PE AutenticaTV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:0,PE Via alto mayo TV
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:0,PE Sanjuanera TV
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:0,PE BHTV
+https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+#EXTINF:0,PE Hechicera TV
+https://video.misistemareseller.com/corporationhc/corporationhc
+#EXTINF:0,PE Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:0,PE TV Peruanisima
+https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:0,PE Super Canal
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:0,PE LimonTV
+https://f.gmsiptv.com/memfs/1a8d92c9-f3f5-4bfa-9ac1-cfbd1d501528.m3u8
+#EXTINF:0,PE CREOTV HD
+https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
+#EXTINF:0,PE 24TV Culturales
+https://cloud.live.opencaster.com/playlist_src/index.m3u8
+#EXTINF:0,PY RCC TV
+https://video.hostingcaaguazu.com:19360/rcctv/rcctv.m3u8
+#EXTINF:0,PY Lim TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:0,PY Somos del Este
+https://live.enhdtv.com:8081/8062/index.m3u8
+#EXTINF:0,PY Unicanal 
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+#EXTINF:0,PY Uniradio
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/.m3u8
+#EXTINF:0,PY CDE Multimedios
+https://glb.bozztv.com/glb/ssh101/cdemultimedios/index.m3u8
+#EXTINF:0,PY Mi TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:0,PY ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:0,PY Trece
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:0,PR CDM
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w335764602.m3u8
+#EXTINF:0,PR Buena
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:0,PR Pura Palabra
+https://59825a54e4454.streamlock.net:8443/william233/william233/.m3u8
+#EXTINF:0,PR MegaTV 
+https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:0,PR Triunfo TV
+https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
+#EXTINF:0,PR Radio Isla
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:0,PR Master TV Video
+https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
+#EXTINF:0,PR Nueva Vida
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
+#EXTINF:0,PR Univision
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:0,PR T
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,PR NotiUno
+https://server40.servistreaming.com:3951/live/notiunotvlive.m3u8
+#EXTINF:0,PR Boricua
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+#EXTINF:0,PR CTNi
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+#EXTINF:0,PR WIPR
+https://cprdp.pr/hls/stream/index.m3u8
+#EXTINF:0,PR ParaisoTV
+rtmp://stream.eleden.com/livewtpm/livewtpm
+#EXTINF:0,PR La-X
+https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+#EXTINF:0,PR NG-Radio
+https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
+#EXTINF:0,PR Radio Yaucana TV
+https://stmvideo2.livecastv.com/rytv2015/rytv2015/.m3u8
+#EXTINF:0,PR Salvaci n TV
+https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
+#EXTINF:0,PR TeleNorte
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+#EXTINF:0,PR The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:0,PR America Teve
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951140
+#EXTINF:0,PR Mastv
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:0,VE VTV
+https://f.gmsiptv.com/memfs/0ee32c05-178c-4441-9706-0db57bd4b4af.m3u8
+#EXTINF:0,VE Venevision
+https://f.gmsiptv.com/memfs/52406692-43ed-42d9-aa11-e749eb6b56ed.m3u8
+#EXTINF:0,VE Canal I
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:0,VE TeleTuya
+https://f.gmsiptv.com/memfs/50b407dd-cc21-4129-b005-df1898da9527.m3u8
+#EXTINF:0,VE Globovision
+https://f.gmsiptv.com/memfs/aeb2f070-370d-4721-bbee-6acfc52dc20d.m3u8
+#EXTINF:0,VE Anzoategui
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:0,VE Catatumbo
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:0,VE BTA
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:0,VE TVO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:0,VE VepacoTV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:0,VE Promar
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:0,VE TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
+#EXTINF:0,VE TRV
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:0,VE Somos TV
+rtmp://vcp3.myplaytv.com/somostv/somostv
+#EXTINF:0,VE Reforma
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:0,VE MDATV
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:0,VE Colombeia
+https://f.gmsiptv.com/memfs/6949e2fd-8455-4e08-8ffa-d9451279df3b.m3u8
+#EXTINF:0,VE EVTV
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5a563bdf2cdc32d174f8e995/playlist.m3u8
+#EXTINF:0,VE VPI
+https://f.gmsiptv.com/memfs/ee96f42e-3b79-4505-8129-51e37af05350.m3u8
+#EXTINF:0,VE TLA
+http://45.173.198.59:8080/hls/nginx3.m3u8
+#EXTINF:0,VE Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:0,VE GlowTV
+https://vcp7.myplaytv.com/glowtv/glowtv/.m3u8
+#EXTINF:0,VE Canal Cultura Venezuela
+https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+#EXTINF:0,VE AguacateTV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:0,VE Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:0,VE GuaroTV
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:0,inter TV
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:0,VE KandelaTV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:0,VE Oxigeno
+https://vcp.myplaytv.com:1936/oxigenotv/ngrp:oxigenotv_all/playlist.m3u8
+#EXTINF:0,VE TAM TV
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+#EXTINF:0,VE Telecentro VE
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:0,VE FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:0,VE UNI TV
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:0,VE TVS
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:0,CA City News Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:0,CA T l -Qu bec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:0,CA Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:0,CA Global News Toronto
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+#EXTINF:0,CA Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:0,CA Global News Kingston
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+#EXTINF:0,CA Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:0,CA Global News Peterborough
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+#EXTINF:0,CA Global News Regina
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:0,CA Global News Saskatoon
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+#EXTINF:0,CA Global News Winnipeg
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:0,CA Global News Calgary
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:0,CA Global News Edmonton
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
+#EXTINF:0,CA Global News Okanagan
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
+#EXTINF:0,CA noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:0,CA Francophonie24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8?CANADA
+#EXTINF:0,CA BFM Business
+https://bro1-cdn-edge-live03.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=00s207quqvgmp8u8fv0g/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:0,CA CPAC TV | (3 Audio Tracks available: English / French / Original)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:0,CA Ontario OLA Network | EN
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:0,CA Ontario OLA Network | FR
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:0,CA Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:0,CA Alkarma TV
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:0,CBC NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8?ads.caid=CBCNews&ads.csid=samsungtvplus_ca_cbcnews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=207&ads.xumo_contentName=CBCNewsEnglish&ads.xumo_providerId=207&ads.xumo_providerName=CBCNewsEnglish&ads.xumo_channelId=9991503&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0,CA BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0,CA The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0,ES La1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0,ES La2
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:0,ES Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:0,ES Telemadrid Int
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:0,ES 24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:0,ES La7
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:0,ES 8 La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:0,ES Distrito TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:0,ES tve
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:0,ES El Pais
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0,ES El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0,ES El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+#EXTINF:0,ES Tele Elx
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:0,ES Ribera TV
+rtmp://common01.todostreaming.es/live/ribera-livestream
+#EXTINF:0,ES Urola Telebista
+rtmp://5940924978228.streamlock.net/j_Directo2/smil:j_Directo2
+#EXTINF:0,ES Condavisi n
+rtmp://5d8d85cf2c308.streamlock.net/Condavision/endirecto
+#EXTINF:0,ES Teleonuba
+rtmp://5d8d85cf2c308.streamlock.net/Teleonuba/endirecto
+#EXTINF:0,ES TVM C rdoba
+rtmp://5924d3ad0efcf.streamlock.net/cordoba/cordobalive
+#EXTINF:0,ES Popular TV Cantabria
+rtmp://limited12.todostreaming.es/live/ptvcantabria-livestream
+#EXTINF:0,ES Im s TV
+rtmp://secure3.todostreaming.es/live/imastv-livestream
+#EXTINF:0,ES Canal 4 Mancha Centro
+rtmp://5924d3ad0efcf.streamlock.net/canal4/canal4live
+#EXTINF:0,ES Costa Noroeste TV
+rtmp://limited31.todostreaming.es/live/noroestetv-livestream
+#EXTINF:0,ES M95 Marbella
+rtmp://limited2.todostreaming.es/live/m95-livestream
+#EXTINF:0,ES RTV
+rtmp://vidartv2.todostreaming.es/live/radiovida-emisiontvhd
+#EXTINF:0,ES CostadelSol TV
+rtmp://limited11.todostreaming.es/live/benalmadena-livestream
+#EXTINF:0,ES Huelva TV
+rtmp://5d8d85cf2c308.streamlock.net/huelvatv/htvdirecto
+#EXTINF:0,ES Canal 25 Barbastro TV
+rtmp://common01.todostreaming.es/live/tvbarbastro-livestream
+#EXTINF:0,ES Lancelot TV
+rtmp://5c0956165db0b.streamlock.net/directo/lancelot.television
+#EXTINF:0,ES Canal 4 Televisi 
+rtmp://limited35.todostreaming.es/live/mitjans-livestream
+#EXTINF:0,ES 4tv La Vall
+rtmp://limited09.todostreaming.es/live/tarson-livestream
+#EXTINF:0,ES Urola TV
+rtmp://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2
+#EXTINF:0,ES Piera TV
+rtmp://51.254.47.72/piera/smil:piera
+#EXTINF:0,ES PTV Granada
+rtmp://streamer.zapitv.com/static/PTV-granada
+#EXTINF:0,ES PTV Sevilla
+rtmp://streamer.zapitv.com/static/PTV_sevilla
+#EXTINF:0,ES PTV C rdoba
+rtmp://streamer.zapitv.com/static/PTV_CORDOBA
+#EXTINF:0,ES PTV M laga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+#EXTINF:0,ES PTV Linares
+https://streamer.zapitv.com/ptv-linarez/index.m3u8
+#EXTINF:0,ES Corts Valencianes
+rtmp://streamserver3.seneca.tv/cval_live/cdn_enc_3
+#EXTINF:0,ES Ciudades Del Ocio TV
+rtmp://cloudvideo.servers10.com/static/8024
+#EXTINF:0,ES Onda Valencia
+rtmp://cloudvideo.servers10.com/static/8116
+#EXTINF:0,ES Tuya La Janda TV
+rtmp://cloudvideo.servers10.com/static/8144
+#EXTINF:0,ES RTV Mog n
+rtmp://cloudvideo.servers10.com/static/8028
+#EXTINF:0,ES Afortunadas TV
+rtmp://cloudvideo.servers10.com/static/8108
+#EXTINF:0,ES Estepona TV
+rtmp://cloudvideo.servers10.com/static/8022
+#EXTINF:0,ES Canal Luz
+rtmp://5d8d85cf2c308.streamlock.net/CanalLuz/enDirecto
+#EXTINF:0,ES TVM C rdoba
+rtmp://teledifusion.tv/cordoba/cordobalive
+#EXTINF:0,ES Canal Sur 2 Andaluc a
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:0,ES Torrevision
+https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8
+#EXTINF:0,ES Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:0,ES Diez TV
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:0,ES Bail n TV
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+#EXTINF:0,ES Canal M laga
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0,ES RealMadrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:0,ES Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:0,ES Radio Nacional
+https://ztnr.rtve.es/ztnr/1938076.m3u8
+#EXTINF:0,ES Radio 3
+https://ztnr.rtve.es/ztnr/2795617.m3u8
+#EXTINF:0,ES Canal Sur Andaluc a
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0,ES Mijas 3.40 TV
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:0,ES Torrevisi n
+https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8
+#EXTINF:0,ES La 1 Canarias
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:0,ES 24h 1
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:0,ES 24h Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:0,ES M rame TV
+rtmp://bit.controlstreams.com/LiveApp/mirametv
+#EXTINF:0,ES NORTEvisi n
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:0,ES Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0,ES Canal 2000
+http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+#EXTINF:0,ES 324
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0,ES 24h Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:0,ES Bon Dia TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:0,ES betev 
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:0,ES Mar TV
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+#EXTINF:0,ES TeleRibera
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:0,ES   Punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:0,ES Intercomarcal TV
+https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
+#EXTINF:0,ES 8 La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:0,ES Alacant  TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:0,ES TV Artequatre
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:0,ES TV Vega Baja
+https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
+#EXTINF:0,ES Burriana TV
+https://www.burrianateve.com/hls/btv.m3u8
+#EXTINF:0,ES telesafor
+http://video.telesafor.com/hls/video.m3u8
+#EXTINF:0,ES Elche 7 TV
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:0,ES Canal 56
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:0,ES Punt 3 Vall Uix 
+rtmp://bit.controlstreams.com/LiveApp/punt3
+#EXTINF:0,ES TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,ES TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,ES TVG Musigal
+https://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,ES TVG Cultura
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,ES TVG Momentos G
+https://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,ES Melilla TV
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:0,ES ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:0,ES ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0,ES Hamaika TV
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:0,ES Goiena Eus
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:0,ES Canal 1 Mar Menor Torre Pacheco
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:0,ES D jate de Historias
+https://ythls.armelin.one/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
+#EXTINF:0,ES Canal Sur
+https://ythls.armelin.one/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8
+#EXTINF:0,ES TelevisionCanaria
+https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
+#EXTINF:0,Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:0,HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:0,Atlanta Channel 
+rtmp://media4.tripsmarter.com/LiveTV/ACVBHD
+#EXTINF:0,NOTV 
+rtmp://media4.tripsmarter.com/LiveTV/NOTVHD
+#EXTINF:0,Beach TV Myrtle Beach & The Grand Strand
+rtmp://media4.tripsmarter.com/LiveTV/MTVHD
+#EXTINF:0,Beach TV Panama City
+rtmp://media4.tripsmarter.com/LiveTV/BTVHD
+#EXTINF:0,Beach TV Florida & Alabama 
+rtmp://media4.tripsmarter.com/LiveTV/DTVHD
+#EXTINF:0,Love Nature 1
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:0,Love Nature 2
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:0,NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:0,NHK World Premium
+http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:0,Smithsonian Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,CGTN Documentary EN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0,FIDOTV
+https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
+#EXTINF:0,Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:0,Wild Planet
+https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist.m3u8
+#EXTINF:0,Xplore
+https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,DroneTV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:0,Demand Africa EN
+https://demandafrica-oando.amagi.tv/index.m3u8
+#EXTINF:0,Timeline
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0,Bon Appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0,DangerTV EN
+https://dangertv-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Law & Crime
+https://lawcrime.s.llnwi.net/h24/lawcrimech1/playlist.m3u8
+#EXTINF:0,Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0,The Guardian
+https://rakuten-guardian-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,More U
+https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8
+#EXTINF:0,Xumo Travel Et LifeStyle
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxxumotravellifestyle/CDN/playlist.m3u8
+#EXTINF:0,GoUSA
+https://d3f5a0c8f3fa46b2be317d584c2fff6b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_GoUSATV/playlist.m3u8
+#EXTINF:0,The House Nation
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
+#EXTINF:0,Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:0,France5 2
+rtmp://69.64.57.208/static/france5
+#EXTINF:0,FR TV Finance
+https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
+#EXTINF:0,Franceinfo
+https://streamtvnetrd.netlify.app/.netlify/functions/videoHandler?url=https://www.dailymotion.com/player/metadata/video/x4rdeu6

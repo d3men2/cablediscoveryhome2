@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/AUUC3iw.png"group-title="":http-referrer="":http-user-agent="",RD Teleantillas
-https://tv.tvabierta.net/memfs/64dfa630-217f-4305-8625-38f250cd6811.m3u8
+https://u.tvabierta.net/memfs/c3dfb8e6-9716-484a-ba35-5cb0f92cd91f.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RDTV Luz
@@ -9,8 +9,8 @@ https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 https://f.gmsiptv.com/memfs/b0b45b0e-46de-4069-881f-50b6ab46b473.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Jgwi3fP.png"group-title="":http-referrer="":http-user-agent="",RDRTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w899180791_b2163840.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Jgwi3fP.png"group-title="":http-referrer="":http-user-agent="",RD Telemicro
-https://tv.tvabierta.net/memfs/8ee560bd-421f-4b0e-857c-e9494fdf1a87.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Jgwi3fP.png"group-title="":http-referrer="":http-user-agent="",RD TelemicrO
+https://u.tvabierta.net/memfs/5e4b0880-5da0-4d96-be16-d96c9df40c9c.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Antena7

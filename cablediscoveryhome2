@@ -14,13 +14,13 @@ https://u.tvabierta.net/memfs/5e4b0880-5da0-4d96-be16-d96c9df40c9c.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Antena7
-https://tv.tvabierta.net/memfs/34079422-238e-481b-8a30-669d743fbdfb.m3u8
+https://u.tvabierta.net/memfs/8aefe158-abbf-498b-825c-02695a69fa7f.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Bellavisión
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Visión del color
-https://tv.tvabierta.net/memfs/ed12c700-559f-40c9-9f96-218b878a301b.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD cOLOR VISION
+https://u.tvabierta.net/memfs/1d58d166-adc9-4cbe-921d-07da03925317.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Telesistema
-https://tv.tvabierta.net/memfs/b370925f-51fe-4e5c-971c-535ef874e54c.m3u8
+https://u.tvabierta.net/memfs/e5ce4485-ee3c-4b68-829d-cbad8230ee68.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RDZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Telecentro

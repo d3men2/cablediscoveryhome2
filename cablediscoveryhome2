@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/AUUC3iw.png"group-title="":http-referrer="":http-user-agent="",RD Teleantillas
-https://u.tvabierta.net/memfs/c3dfb8e6-9716-484a-ba35-5cb0f92cd91f.m3u8
+https://ds.tvabierta.net/memfs/bd29c83f-37f3-493d-af1b-36f0f83b3527.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RDTV Luz
@@ -24,11 +24,11 @@ https://u.tvabierta.net/memfs/e5ce4485-ee3c-4b68-829d-cbad8230ee68.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RDZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Telecentro
-https://u.tvabierta.net/memfs/966badef-a62a-4386-9db4-0665ff13ae37.m3u8
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD digital 15
-https://u.tvabierta.net/memfs/5a1b442b-1d43-4eab-aa7c-8d3ea3382c78.m3u8
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RDN16
 https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD AION

@@ -10,7 +10,7 @@ https://ds.tvabierta.net/memfs/f74d5027-040c-4374-8905-2edfbca29552.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Jgwi3fP.png"group-title="":http-referrer="":http-user-agent="",RDRTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w899180791_b2163840.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Jgwi3fP.png"group-title="":http-referrer="":http-user-agent="",RD TelemicrO
-https://u.tvabierta.net/memfs/5e4b0880-5da0-4d96-be16-d96c9df40c9c.m3u8
+https://ds.tvabierta.net/memfs/f74d5027-040c-4374-8905-2edfbca29552.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Antena7
@@ -18,17 +18,17 @@ https://u.tvabierta.net/memfs/8aefe158-abbf-498b-825c-02695a69fa7f.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Bellavisión
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD cOLOR VISION
-https://u.tvabierta.net/memfs/1d58d166-adc9-4cbe-921d-07da03925317.m3u8
+https://ds.tvabierta.net/memfs/eb78f429-c05e-4c37-b8c1-18713f6af9ba.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Telesistema
 https://u.tvabierta.net/memfs/e5ce4485-ee3c-4b68-829d-cbad8230ee68.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RDZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Telecentro
-https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+https://ds.tvabierta.net/memfs/278304e6-dc2b-4ebd-a6c0-9b23d08a72f4.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD digital 15
-https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+https://ds.tvabierta.net/memfs/82427373-dadd-4f9d-8563-14d989e8c0c8.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RDN16
 https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",RD AION
